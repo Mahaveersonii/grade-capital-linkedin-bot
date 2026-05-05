@@ -1,0 +1,8 @@
+.env
+linkedin_session.json
+gif_browser_session.json
+debug_*.png
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
