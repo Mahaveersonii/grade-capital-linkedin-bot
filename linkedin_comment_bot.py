@@ -1,11 +1,15 @@
 #!/usr/bin/env python3
 """
-LinkedIn Auto-Comment Bot — Grade Capital / Mahaveer Soni
-Finds 6-8 blockchain/crypto/DeFi posts daily and posts expert comments automatically.
-Uses Playwright with stored LinkedIn session cookie — no login automation needed.
+LinkedIn Comment Bot — Grade Capital / Mahaveer Soni
+Finds blockchain/crypto/DeFi posts and generates expert comments.
+MANUAL TRIGGER ONLY — run with --post to actually post. Default is dry-run (preview only).
+
+Usage:
+    python3 linkedin_comment_bot.py           # preview only, no posting
+    python3 linkedin_comment_bot.py --post    # actually post comments
 """
 
-import os, json, time, random, re, sys
+import argparse, os, json, time, random, re, sys
 from typing import Optional
 from pathlib import Path
 from datetime import datetime, date
@@ -327,7 +331,11 @@ def type_and_submit_comment(page, comment_text: str) -> bool:
 
 
 # ── Main browser session ───────────────────────────────────────────────────────
-def run():
+def run(post: bool = False):
+    if not post:
+        print("\n[DRY-RUN MODE] Comments will be generated but NOT posted.")
+        print("Run with --post to actually post comments.\n")
+
     log = load_log()
     today = str(date.today())
 
@@ -341,6 +349,8 @@ def run():
 
     print(f"\n{'='*55}")
     print(f"  LinkedIn Comment Bot — {datetime.now():%d %b %Y %H:%M}")
+    mode_label = "POSTING" if post else "DRY-RUN (preview only)"
+    print(f"  Mode: {mode_label}")
     print(f"  Target: {remaining} more comments today (total {POSTS_PER_DAY})")
     print(f"{'='*55}\n")
 
@@ -455,6 +465,12 @@ def run():
 
                 print(f"    Comment: {comment[:100]}...")
 
+                if not post:
+                    # Dry-run: log as preview, don't touch LinkedIn
+                    print("    [DRY-RUN] Would post this comment (skipping actual post)")
+                    commented += 1
+                    continue
+
                 # Click THIS post's Comment button (correctly paired via DOM walk)
                 if not click_comment_button_by_index(page, btn_index):
                     print("    Could not click comment button, skipping")
@@ -495,8 +511,16 @@ def run():
 
         browser.close()
 
-    print(f"\nDone. {commented} comments posted today.")
+    if post:
+        print(f"\nDone. {commented} comments posted today.")
+    else:
+        print(f"\n[DRY-RUN] Done. {commented} comments previewed (none posted).")
+        print("Run with --post to actually post these comments.")
 
 
 if __name__ == "__main__":
-    run()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--post", action="store_true", help="Actually post comments (default: dry-run preview only)")
+    parser.add_argument("--dry-run", action="store_true", help="Preview comments without posting (default behaviour)")
+    args = parser.parse_args()
+    run(post=args.post)
