@@ -1,12 +1,7 @@
 name: LinkedIn Comment Bot
 
 on:
-  schedule:
-    # 3 runs daily — IST times: 10:00 AM, 2:30 PM, 7:00 PM
-    - cron: '30 4 * * *'   # 10:00 AM IST
-    - cron: '0 9 * * *'    # 2:30 PM IST
-    - cron: '30 13 * * *'  # 7:00 PM IST
-  workflow_dispatch:        # manual trigger from GitHub UI
+  workflow_dispatch:        # manual trigger only — auto-schedule removed
 
 jobs:
   comment:
@@ -36,7 +31,7 @@ jobs:
           LINKEDIN_SESSION_JSON: ${{ secrets.LINKEDIN_SESSION_JSON }}
 
       - name: Run comment bot
-        run: python3 linkedin_comment_bot.py
+        run: python3 linkedin_comment_bot.py --post
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           LINKEDIN_LI_AT: ${{ secrets.LINKEDIN_LI_AT }}
