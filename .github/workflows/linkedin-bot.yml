@@ -37,6 +37,14 @@ jobs:
           LINKEDIN_LI_AT: ${{ secrets.LINKEDIN_LI_AT }}
           LINKEDIN_JSESSIONID: ${{ secrets.LINKEDIN_JSESSIONID }}
 
+      - name: Upload debug screenshots (if any)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-screenshots
+          path: /tmp/debug_*.png
+          if-no-files-found: ignore
+
       - name: Commit updated comment log
         run: |
           git config user.name "linkedin-bot"

@@ -185,57 +185,117 @@ def make_post_id(text: str) -> str:
     return hashlib.md5(text[:300].encode()).hexdigest()
 
 
-def get_posts_from_page(page) -> list:
+def get_posts_from_page(page, debug_screenshot_path: str = None) -> list:
     """
     Return list of dicts: {text, btn_index}
-    Pairs each expandable-text-box with its OWN Comment button by walking up
-    the DOM — no global index guessing.
-    btn_index is the position of that post's Comment button among ALL Comment
-    buttons on the page (used to click the right one later).
+    Tries 3 selector strategies in order, falling back if each returns 0 results.
+    Saves a debug screenshot if provided and 0 posts found.
     """
-    return page.evaluate("""() => {
-        const allCommentBtns = Array.from(document.querySelectorAll('button')).filter(b =>
-            b.textContent.trim() === 'Comment' && b.offsetParent !== null
-        );
+    # --- Debug: log page URL + title so we can spot redirects/captchas ---
+    try:
+        print(f"  [debug] URL : {page.url}")
+        print(f"  [debug] Title: {page.title()}")
+    except Exception:
+        pass
 
-        const boxes = document.querySelectorAll('[data-testid="expandable-text-box"]');
+    result = page.evaluate("""() => {
+        // ── helpers ──────────────────────────────────────────────────────────
+        function isCommentBtn(b) {
+            return (b.textContent.trim() === 'Comment' ||
+                    (b.getAttribute('aria-label') || '').toLowerCase().includes('comment')) &&
+                   b.offsetParent !== null;
+        }
+
+        const allCommentBtns = Array.from(document.querySelectorAll('button')).filter(isCommentBtn);
+
+        function walkUpForCommentBtn(startEl) {
+            let el = startEl;
+            for (let i = 0; i < 30; i++) {
+                el = el.parentElement;
+                if (!el || el.tagName === 'BODY') return null;
+                const btns = Array.from(el.querySelectorAll('button')).filter(isCommentBtn);
+                if (btns.length === 1) return btns[0];
+                if (btns.length > 5) return null;  // went too high
+            }
+            return null;
+        }
+
+        function buildResults(boxes) {
+            const results = [];
+            const seen = new Set();
+            for (const box of boxes) {
+                const text = box.innerText.trim();
+                if (text.length < 80) continue;
+                const key = text.substring(0, 80);
+                if (seen.has(key)) continue;
+                seen.add(key);
+
+                const btn = walkUpForCommentBtn(box);
+                if (!btn) continue;
+                const btnIndex = allCommentBtns.indexOf(btn);
+                if (btnIndex === -1) continue;
+                results.push({ text: text.substring(0, 1200), btn_index: btnIndex });
+            }
+            return results;
+        }
+
+        // ── Strategy 1: expandable-text-box (feed page) ──────────────────────
+        let boxes = Array.from(document.querySelectorAll('[data-testid="expandable-text-box"]'));
+        if (boxes.length > 0) return { strategy: 1, results: buildResults(boxes) };
+
+        // ── Strategy 2: known LinkedIn post/search text selectors ────────────
+        const s2selectors = [
+            '.feed-shared-update-v2__description',
+            '.update-components-text',
+            '[class*="commentary"]',
+            '[class*="feed-shared-text"]',
+            'span.break-words',
+            '[data-view-name="search-result-entity-detail"] [dir="ltr"]',
+        ];
+        for (const sel of s2selectors) {
+            boxes = Array.from(document.querySelectorAll(sel));
+            if (boxes.length > 0) return { strategy: 2, results: buildResults(boxes) };
+        }
+
+        // ── Strategy 3: reverse — walk UP from every Comment button ──────────
         const results = [];
-
-        for (const box of boxes) {
-            const text = box.innerText.trim();
-            if (text.length < 80) continue;
-
-            // Walk up DOM from text box to find the container that holds
-            // exactly one Comment button (= this post's card)
-            let el = box;
-            let commentBtn = null;
-
-            for (let i = 0; i < 25; i++) {
+        const seen = new Set();
+        for (let btnIndex = 0; btnIndex < allCommentBtns.length; btnIndex++) {
+            let el = allCommentBtns[btnIndex];
+            for (let i = 0; i < 20; i++) {
                 el = el.parentElement;
                 if (!el || el.tagName === 'BODY') break;
-
-                const btns = Array.from(el.querySelectorAll('button')).filter(b =>
-                    b.textContent.trim() === 'Comment' && b.offsetParent !== null
+                const text = el.innerText.trim();
+                if (text.length < 200) continue;
+                // Take the first direct child with substantial text
+                const textNode = Array.from(el.children).find(
+                    c => c.innerText && c.innerText.trim().length > 80
                 );
-
-                if (btns.length === 1) {
-                    commentBtn = btns[0];
-                    break;
-                }
-                // If already found multiple, went too high — stop
-                if (btns.length > 4) break;
+                const content = (textNode || el).innerText.trim();
+                const key = content.substring(0, 80);
+                if (seen.has(key)) break;
+                seen.add(key);
+                results.push({ text: content.substring(0, 1200), btn_index: btnIndex });
+                break;
             }
-
-            if (!commentBtn) continue;
-
-            // Find this button's index in the global Comment button list
-            const btnIndex = allCommentBtns.indexOf(commentBtn);
-            if (btnIndex === -1) continue;
-
-            results.push({ text: text.substring(0, 1200), btn_index: btnIndex });
         }
-        return results;
-    }""") or []
+        return { strategy: 3, results };
+    }""") or {"strategy": 0, "results": []}
+
+    strategy  = result.get("strategy", 0)
+    posts     = result.get("results", [])
+    if strategy > 0:
+        print(f"  [debug] Selector strategy {strategy} matched ({len(posts)} posts)")
+
+    # Take screenshot when 0 posts found — upload as artifact for diagnosis
+    if len(posts) == 0 and debug_screenshot_path:
+        try:
+            page.screenshot(path=debug_screenshot_path, full_page=False)
+            print(f"  [debug] Screenshot saved → {debug_screenshot_path}")
+        except Exception as e:
+            print(f"  [debug] Screenshot failed: {e}")
+
+    return posts
 
 
 def click_comment_button_by_index(page, btn_index: int) -> bool:
@@ -425,13 +485,22 @@ def run(post: bool = False):
 
             human_delay(4, 8)
 
+            # Detect soft-blocks on the search page (different from feed auth check)
+            current_url = page.url
+            if any(x in current_url for x in ("authwall", "login", "checkpoint", "captcha", "challenge")):
+                print(f"  Blocked on search page ({current_url}), stopping.")
+                break
+
             # Scroll to load more posts
             for _ in range(4):
                 page.evaluate("window.scrollBy(0, window.innerHeight * 2)")
                 human_delay(2, 4)
 
-            # Get all posts from page using new stable selector
-            posts = get_posts_from_page(page)
+            # Screenshot path for debugging (only used when 0 posts found)
+            debug_path = f"/tmp/debug_{hashtag}.png"
+
+            # Get all posts from page — tries 3 selector strategies with debug
+            posts = get_posts_from_page(page, debug_screenshot_path=debug_path)
             print(f"  Found {len(posts)} posts")
 
             # Process in random order (shuffle indices)
@@ -497,7 +566,7 @@ def run(post: bool = False):
                             page.evaluate("window.scrollBy(0, window.innerHeight * 2)")
                             human_delay(2, 3)
                         # Refresh post list
-                        posts = get_posts_from_page(page)
+                        posts = get_posts_from_page(page, debug_screenshot_path=debug_path)
                     except Exception:
                         break  # move to next hashtag
                 else:
