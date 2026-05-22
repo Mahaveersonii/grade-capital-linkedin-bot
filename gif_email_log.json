@@ -5483,5 +5483,1405 @@
     "comment": "Routing 60% of Coinbase's Solana volume through DFlow is a meaningful infrastructure signal, not a headline feature , it's an acknowledgment that raw throughput on Solana was never the bottleneck, execution quality and liquidity routing were. Trade failure rates dropping sharply as a direct result tells you the real friction in on-chain trading has always been at the routing layer, not the consensus layer.",
     "url": "https://www.linkedin.com/company/tron-weekly-journal/posts/",
     "age_h": 0.1
+  },
+  "3861d8b04866d22bf3bb9baf1f1487b6": {
+    "date": "2026-05-06",
+    "snippet": "\ud83d\udea8 Big RWA Move!\n\n@StandardinGold has partnered with @ArtGisRWA to build real exit infrastructure for tokenized assets.\n\n",
+    "comment": "SKIP"
+  },
+  "50a2f05556f8df8c5df60adf0a992823": {
+    "date": "2026-05-06",
+    "snippet": "Tokenization will not be won by the platform that settles fastest.\nIt will be won by the architecture regulators can tru",
+    "comment": "The framing of \"compliance at the instrument level\" is the sharpest reorientation in regulated tokenization right now , and most institutional debates completely miss it. Platform-level compliance creates a fragmentation problem that only gets worse at scale: every custodian handoff, every cross-border transfer becomes a compliance gap waiting to be exploited. The question of what happens to regulatory enforceability when an asset moves off its native platform isn't theoretical , it's already the central bottleneck slowing down serious secondary market infrastructure for tokenized securities.",
+    "url": "https://www.linkedin.com/in/zurabashvil/",
+    "age_h": 0.016666666666666666
+  },
+  "3549c92913956318a220c20b6338b4b8": {
+    "date": "2026-05-06",
+    "snippet": "No Salaries, No Insider Sales, No Speculation: How UK Financial Ltd Built a Gold-Backed RWA Ecosystem That Lasted\n\nUK Fi",
+    "comment": "SKIP"
+  },
+  "831d8c57bc2e7744946453b6d0746e62": {
+    "date": "2026-05-06",
+    "snippet": "The entire economy will be tokenized. This is no longer a theory \ud83d\udcaf\n\nGuys, I was scrolling through the news this morning ",
+    "comment": "Joseph Lubin's framing at Consensus Miami is directionally right, but the McKinsey $2 trillion figure by 2030 deserves scrutiny , that number assumes regulatory harmonization across jurisdictions that is nowhere near resolved. The technology maturing is the easy part; the hard part is whether settlement finality, legal enforceability of tokenized ownership, and cross-border compliance frameworks will keep pace. Inevitable doesn't mean frictionless, and the gap between those two words is where most projects will either break or build durable infrastructure.",
+    "url": "https://www.linkedin.com/in/alex-kozenko-5b019a17/",
+    "age_h": 0.16666666666666666
+  },
+  "291940659a1dac2f7ecc6d860ecafb44": {
+    "date": "2026-05-06",
+    "snippet": "Wenn Funktionen zusammenkommen, wird es interessant.\n\nMit dem neuen Handwerker-Dachausstieg s: 219 vereint s: stebler Da",
+    "comment": "SKIP"
+  },
+  "f7cb6902c8c228c8720d2259a963c559": {
+    "date": "2026-05-06",
+    "snippet": "La vera trasformazione non consiste solo nel digitalizzare gli asset, ma nel costruire infrastrutture pi\u00f9 trasparenti, v",
+    "comment": "SKIP"
+  },
+  "df3290549ba409b76746f228913f4aa5": {
+    "date": "2026-05-06",
+    "snippet": "La tokenizzazione dei Real World Assets non \u00e8 un esperimento.\n\u00c8 un trend strutturale.\n\nNegli ultimi anni sempre pi\u00f9 isti",
+    "comment": "SKIP"
+  },
+  "ba8da787ccdaec4811dae3bd41397017": {
+    "date": "2026-05-06",
+    "snippet": "\u0628\u0627\u0644\u0623\u0645\u0633 \u0643\u062a\u0628\u062a \u0645\u0642\u0627\u0644\u064b\u0627 \u062c\u062f\u064a\u062f\u064b\u0627 \u0641\u064a \u0645\u0648\u0642\u0639\u064a \u0627\u0644\u0634\u062e\u0635\u064a \u0623\u062b\u0631 \u0623\u0633\u064a\u0644 \u0639\u0646 \u0645\u0641\u0647\u0648\u0645 \u0645\u0647\u0645 \u0641\u064a \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a:\n\nTokenization\n\n\u0643\u064a\u0641 \u062a\u062a\u062d\u0648\u0644 \u0627\u0644\u0643\u0644\u0645\u0627\u062a \u0625\u0644",
+    "comment": "SKIP"
+  },
+  "605494ac1a654510f46552e217aef625": {
+    "date": "2026-05-06",
+    "snippet": "Fine-Tuning Enterprise AI Models: From Generic Intelligence to Domain-Specific Performance \u2014 Executive & Technical Frame",
+    "comment": "SKIP"
+  },
+  "eeb2f321134b7831a7d2e3a7cc317bef": {
+    "date": "2026-05-06",
+    "snippet": "Dynamic equity is redefining how real estate is valued, owned, and traded.\n\nBy integrating agentic AI with RWA tokenizat",
+    "comment": "SKIP"
+  },
+  "ab8daee72cd4699c428c61562fddf646": {
+    "date": "2026-05-06",
+    "snippet": "We are direct providers of Fresh Cut BG, SBLC and MTN and loan which are specifically for lease, our bank instrument can",
+    "comment": "SKIP"
+  },
+  "fc1d1545ca2382ff37746881025fa199": {
+    "date": "2026-05-06",
+    "snippet": "The era of frozen capital in UAE real estate is officially over. \nAs we align with the Dubai Economic Agenda D33, the in",
+    "comment": "The convergence of DLD records and VARA mandates is where this actually gets interesting , most tokenization discussions stop at the liquidity narrative and completely ignore that SPV structuring under UAE's new 9% corporate tax regime changes the economics of fractional ownership in ways that haven't been fully priced in. Speed to market without resolving the tax treatment of token distributions isn't innovation, it's deferred liability.",
+    "url": "https://www.linkedin.com/in/ezatalnajm/",
+    "age_h": 2
+  },
+  "2bc3df14343c70bed7c874c22390b5a3": {
+    "date": "2026-05-06",
+    "snippet": "Unlock the Future of Asset Ownership with Real-World Asset Tokenization\nTransform physical assets into secure, tradable ",
+    "comment": "SKIP"
+  },
+  "a0cb204dc0ca7fc94ac018d5630934f6": {
+    "date": "2026-05-06",
+    "snippet": "Blockchain adoption in real estate is gaining momentum as industry leaders push for tokenized property systems and digit",
+    "comment": "Propy's CEO framing this around ownership transfers and paperwork reduction is accurate but undersells the deeper unlock , real estate is a $326 trillion asset class where illiquidity is structural, not accidental. Fractional tokenization doesn't just improve access, it fundamentally changes how capital allocates to property by collapsing the minimum ticket size. The regulatory clarity point is real, but the infrastructure is already ahead of the legal frameworks in most jurisdictions , that gap is closing faster than the industry expects.",
+    "url": "https://www.linkedin.com/company/times-of-blockchain/posts/",
+    "age_h": 4
+  },
+  "e36068ec4dfba7335ac846f6494f1f56": {
+    "date": "2026-05-06",
+    "snippet": "The future of real estate is becoming digital.\n\nE-Estate Group Inc. is building a tokenized real estate platform designe",
+    "comment": "SKIP"
+  },
+  "64e49c392239c52b66b3ab4e5e06af1a": {
+    "date": "2026-05-06",
+    "snippet": "\ud83d\ude80 We Just Opened Public Access to the Radiant AI Live Trading Platform\nFor a long time, crypto trading platforms have mo",
+    "comment": "SKIP"
+  },
+  "7727fe8bb8c9017348d2691c3c5701ce": {
+    "date": "2026-05-06",
+    "snippet": "\ud83d\ude80 Speaker Confirmed \u2014 Alex Bausch \ud83d\ude80\n\nWe\u2019re pleased to welcome Alex Bausch to CODA 2026 \u2014 Conference on Digital Assets!\n\n",
+    "comment": "SKIP"
+  },
+  "0d56394e99cc79cd6f783919f50d5ef5": {
+    "date": "2026-05-06",
+    "snippet": "NovaChain Hub is hiring for a Blockchain Developer.\nRemote (Global) | Competitive | Full-time | Blockchain / AI / DEX\n\nY",
+    "comment": "SKIP"
+  },
+  "822e854f6df5b20e8930f550c04adaf3": {
+    "date": "2026-05-06",
+    "snippet": "Ethereum pioneered the smart contract revolution, but the blockchain landscape has evolved far beyond a single platform.",
+    "comment": "The multi-chain framing is right, but it undersells the structural tension at the center of it , Ethereum's security model and decentralization remain the benchmark that every competing L1 and L2 is measured against, whether they admit it or not. The real question isn't whether one chain dominates, but whether cross-chain interoperability can mature without introducing systemic bridge risk, which has already cost the ecosystem billions in exploits.",
+    "url": "https://www.linkedin.com/company/nexdax/posts/",
+    "age_h": 1
+  },
+  "65d2860cf14ead812fe65375b6f0948a": {
+    "date": "2026-05-06",
+    "snippet": "Outcome-driven systems can unlock so much hidden potential.\n People perform better when ambiguity and gatekeeping are re",
+    "comment": "SKIP"
+  },
+  "4639faff6ecec375326dcac85bc1c4e3": {
+    "date": "2026-05-06",
+    "snippet": "Still confused by crypto jargon? \ud83e\udd14\nYou\u2019re not alone. Most beginners stay stuck because no one reveals the hidden parts.\n",
+    "comment": "SKIP"
+  },
+  "01d260fed268c040cf09e76e21d759e8": {
+    "date": "2026-05-06",
+    "snippet": "I'm sure we have all heard this: \"If you are not building with AI, you will soon be extinct.\" \ud83d\udcaf Quite true.\n\nConsequentl",
+    "comment": "SKIP"
+  },
+  "87d8c9054fa7a33076d80aec619cf2a5": {
+    "date": "2026-05-06",
+    "snippet": "Blockchain is becoming part of everyday life faster than most people realize \n\nFrom online payments and banking to track",
+    "comment": "SKIP"
+  },
+  "6fe6c4b29ec735fc5007dd1198158297": {
+    "date": "2026-05-06",
+    "snippet": "When autonomous systems execute commercial decisions, traditional liability models shift. \n\nWe help you define clear par",
+    "comment": "SKIP"
+  },
+  "73ed7c0dd5c99e010461ff904af17015": {
+    "date": "2026-05-06",
+    "snippet": "What\u2019s next in index construction and methodology innovation?\n\nAs demand grows for more customized, outcome-oriented, an",
+    "comment": "SKIP"
+  },
+  "49c4a5a110fa3e9ad97f2e1441a3b160": {
+    "date": "2026-05-06",
+    "snippet": "Happy to announce that I have joined Pipraisers as a Capital Market Analyst Intern.\n\nIn this role, I aim to deepen my un",
+    "comment": "SKIP"
+  },
+  "d46caab49983fa6c5c3c29cdbc61b753": {
+    "date": "2026-05-06",
+    "snippet": "Eubelius assists What\u2019s Cooking Group on the voluntary and conditional public takeover bid in cash launched by Malaga In",
+    "comment": "SKIP"
+  },
+  "cab9d39dbb5496c9e446c27791f0ee3d": {
+    "date": "2026-05-06",
+    "snippet": "We did it again! We\u2019ve successfully closed a new KZT Eurobond at the Development Bank of Kazakhstan \ud83c\udf89\n\nKZT 230bn, 3-year",
+    "comment": "SKIP"
+  },
+  "f160259669c9d735369499d4ffc9afb1": {
+    "date": "2026-05-06",
+    "snippet": "For many family offices, the conversation has shifted from \"Should we invest in digital assets?\" to \"How much is the rig",
+    "comment": "The shift from \"should we\" to \"how much\" is where institutional discipline actually gets tested. The volatility-adjusted sizing logic here is the right framework , a fixed 5% digital asset allocation carrying 3x to 5x equity volatility isn't a 5% position in any meaningful risk-budget sense, it's closer to 15 to 25% of your actual risk exposure. Most family office allocations that blew up in 2022 weren't wrong on the thesis, they were wrong on the sizing math.",
+    "url": "https://www.linkedin.com/company/ledgerstone-research/posts/",
+    "age_h": 0.4
+  },
+  "04b127f3895bc1ca36a83879c553fdd6": {
+    "date": "2026-05-06",
+    "snippet": "Everyone knows what geopolitics is. Has done for years. The harder question, the one that actually matters for allocator",
+    "comment": "SKIP"
+  },
+  "0072c42f88a1d715cb0f3e2660d4fe1c": {
+    "date": "2026-05-06",
+    "snippet": "Markets have spent the past six weeks in a state of alert. The VIX spiked, oil whipsawed around the Hormuz disruption, a",
+    "comment": "The Hormuz disruption framing is a perfect example of the gap you're describing , the event got priced, the second-order effects on Asian energy import costs and EM central bank reserve drawdowns did not. Transmission through monetary order stress is almost never linear, and portfolios optimized for the headline scenario are structurally wrong for the cascade that follows. Risk identification is widely distributed now; the analytical edge lives entirely in mechanism mapping, not event detection.",
+    "url": "https://www.linkedin.com/company/the-outcome-impactors/posts/",
+    "age_h": 0.6166666666666667
+  },
+  "934eea2823282281b47075341850e382": {
+    "date": "2026-05-06",
+    "snippet": "Before focusing on returns, most LPs focus on downside risk. Sharing a few thoughts on how that is evaluated.\n\n#Philotim",
+    "comment": "SKIP"
+  },
+  "51b74e077b01158dfa9b50ea77447c32": {
+    "date": "2026-05-06",
+    "snippet": "\ud835\udde3\ud835\uddff\ud835\uddf6\ud835\ude03\ud835\uddee\ud835\ude01\ud835\uddf2 \ud835\uddf0\ud835\uddff\ud835\uddf2\ud835\uddf1\ud835\uddf6\ud835\ude01 \ud835\uddf6\ud835\ude00 \ud835\uddf2\ud835\ude03\ud835\uddfc\ud835\uddf9\ud835\ude03\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\ude00\ud835\uddfc \ud835\uddf6\ud835\ude00 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\ude04\ud835\uddee\ud835\ude06 \ud835\uddf6\ud835\uddfb\ud835\ude03\ud835\uddf2\ud835\ude00\ud835\ude01\ud835\uddfc\ud835\uddff\ud835\ude00 \ud835\uddfb\ud835\uddf2\ud835\uddf2\ud835\uddf1 \ud835\ude01\ud835\uddfc \ud835\ude01\ud835\uddf5\ud835\uddf6\ud835\uddfb\ud835\uddf8 \ud835\uddee\ud835\uddef\ud835\uddfc\ud835\ude02\ud835\ude01 \ud835\uddf6\ud835\ude01.\n\nAt next week\u2019s Pan Nordic Fund Forum in ",
+    "comment": "SKIP"
+  },
+  "399cb46fd9ffe0449da87a2b4d218b3e": {
+    "date": "2026-05-06",
+    "snippet": "MicroStrategy just reported a $14.47 billion operating loss\u2014116 times its quarterly revenue. And the stock closed UP.\nWa",
+    "comment": "The pivot from \"never sell\" to \"sell Bitcoin to pay the dividend\" is the most underreported strategy shift in institutional crypto right now. What this actually signals is that the 818,000 BTC position is no longer purely a conviction bet , it's now functioning as a yield-generating collateral asset, which changes the entire risk profile of the treasury model. If BTC enters another prolonged drawdown cycle, the pressure to liquidate to fund dividends creates a forced-seller dynamic that the original HODL thesis was specifically designed to avoid.",
+    "url": "https://www.linkedin.com/in/edgaras-galminas-0a4899149/",
+    "age_h": 0.7833333333333333
+  },
+  "97f8fd9ff8de2baa64c5bd533afa7d2e": {
+    "date": "2026-05-06",
+    "snippet": "Most people \"buy\" Indian real estate. Very few \"invest\" in it with discipline.\n\nThe Indian real estate market is one of ",
+    "comment": "SKIP"
+  },
+  "a1d725dbecc06d8933fc8b7452eb0987": {
+    "date": "2026-05-06",
+    "snippet": "Now live at the CONNECT CFO Leadership Summit \u2014 a timely panel discussion unpacking what next-generation finance really ",
+    "comment": "SKIP"
+  },
+  "b65f6cf74f473a0ceaca3ba2b68ea786": {
+    "date": "2026-05-06",
+    "snippet": "Well done, once again, to Ayanfeoluwa Ogbonna (who is one of the most high-agency people I have ever met!) and the rest ",
+    "comment": "SKIP"
+  },
+  "c92b6a7290e9422ca69c3f9aca4f6b21": {
+    "date": "2026-05-06",
+    "snippet": "Programmable CHF is here.\n\nCHFAU enables:\n1. EUR/CHF settlement flows with near-instant finality\n2. Reduced FX exposure ",
+    "comment": "SKIP"
+  },
+  "b351ec78edf328bf8b3ff3ff03cbe066": {
+    "date": "2026-05-06",
+    "snippet": "The future of global payments isn\u2019t coming\u2026 it\u2019s already here \ud83d\udc40\n\nAI-powered remittances are helping businesses move mone",
+    "comment": "SKIP"
+  },
+  "0aaabb725bccc480dbe867e033cc7bc4": {
+    "date": "2026-05-06",
+    "snippet": "\u200b#FinTech\n#OpenSource\n#DataScience\n#FinancialAnalysis\n#Bloomberg\n#OpenBB\n#Python\n#QuantitativeAnalysis\n#GitHub\n#Algorith",
+    "comment": "SKIP"
+  },
+  "e7945781ee763ed830697bacf203c32e": {
+    "date": "2026-05-06",
+    "snippet": "\ud83c\udde8\ud83c\udded Why a Swiss franc stablecoin and why now\n\nThe EU generates more than CHF 1 billion in trade with Switzerland every wo",
+    "comment": "The CHF corridor processing over CHF 300 billion annually with zero regulated on-chain settlement layer until now is the real headline , that's not a gap, that's a structural vacuum that's been quietly expensive for cross-border counterparties for years. MiCAR compliance matters here more than in most stablecoin launches because the EU-Switzerland trade relationship operates under a unique regulatory overlap that has made compliant settlement unusually complicated to architect.",
+    "url": "https://www.linkedin.com/company/allunity/posts/",
+    "age_h": 1
+  },
+  "dcf7c69e070d59a5635f922bff4b404c": {
+    "date": "2026-05-06",
+    "snippet": "Optimizing Portfolios with Quantum Power: QAOA for Constrained Asset Selection\n\nQuantum computing is steadily moving fro",
+    "comment": "SKIP"
+  },
+  "c7bcf35fd9d5a0b02266235f93f08183": {
+    "date": "2026-05-06",
+    "snippet": "Sending money across borders shouldn\u2019t feel like a struggle anymore \ud83c\udf0d\ud83d\udcb8\n\nWith AI-powered digital payments, global transac",
+    "comment": "SKIP"
+  },
+  "b86215b65d096ba78657c5082b499ab3": {
+    "date": "2026-05-06",
+    "snippet": "Massive action doesn\u2019t just create results\u2026 it rewrites the game.\n\n90 days in\u2014and what\u2019s unfolding is on a completely di",
+    "comment": "SKIP"
+  },
+  "ae6afce6e6882e087a27b4051650e5e1": {
+    "date": "2026-05-06",
+    "snippet": "In threshold cryptography, we usually face a pick-two dilemma: Adaptive Security, Low Round Complexity, or Standard Assu",
+    "comment": "SKIP"
+  },
+  "12baa260476a1eb355c080df71ea83d2": {
+    "date": "2026-05-06",
+    "snippet": "Es un verdadero orgullo contar con el respaldo profesional y humano de Belisario Castillo S\u00e1enz. \n\nComo Especialista Leg",
+    "comment": "SKIP"
+  },
+  "d7bae494d109c16aea9d4bc82a0c48a5": {
+    "date": "2026-05-06",
+    "snippet": "The internet is evolving\u2026 again. Welcome to Web3.\ud83d\udca7\ud83d\udca6\ud83d\udca6\n\nFrom simply reading content (Web1), to creating and sharing (Web2)",
+    "comment": "SKIP"
+  },
+  "1027c9a41711d6e37e5a0c1d229b6c9a": {
+    "date": "2026-05-06",
+    "snippet": "Block24Seven is now an official Media Partner with NZCryptoCon\n\nBringing you exclusive updates, insights, and on-ground ",
+    "comment": "SKIP"
+  },
+  "3b27f2a97bf924e658cd91135a456638": {
+    "date": "2026-05-06",
+    "snippet": "DAILY GAINERS\n\n#KNTQ #BILL #IO #ZEC #LAB #SKYAI #GWEI #DASH\n\n#crypto #cryptonews #cryptocurrency #blockchain #web3 #NFT ",
+    "comment": "SKIP"
+  },
+  "7b7cee262ada54466e29aae8f31f7582": {
+    "date": "2026-05-06",
+    "snippet": "Recomiendo seguir a Sergio Tertusio, destacado especialista en contabilidad de activos digitales, y adem\u00e1s, un gran amig",
+    "comment": "SKIP"
+  },
+  "d30bbacf67d2938909aed0e3b41bd24e": {
+    "date": "2026-05-06",
+    "snippet": "#XRP DeFi Project CEO Says #Flare Outpaces #Cardano in #DeFi\nhttps://lnkd.in/gFM_RpBh",
+    "comment": "SKIP"
+  },
+  "10d18097319acb4e6bdf1a74fff4e75e": {
+    "date": "2026-05-06",
+    "snippet": "Most Web3 content fails before the writer writes a single word. It fails in the brief.\n\nA brief is not a task descriptio",
+    "comment": "SKIP"
+  },
+  "4fe06c6adc452b3aef378000eb6a13da": {
+    "date": "2026-05-06",
+    "snippet": "\ud83d\ude80 Launch Your Own Token Swap Site\n\nRun a fully-branded swap site for your token on BNB Chain. Earn fees on every trade, ",
+    "comment": "SKIP"
+  },
+  "3a59e877f9109678ef7e4985fab07854": {
+    "date": "2026-05-06",
+    "snippet": "Quick PSA from someone who's been in the Discords since 2021:\n\u00a0\nIf you've ever:\n\u00a0\n\u2717 Clicked a \"claim your airdrop\" link ",
+    "comment": "Self-custody being freedom and full responsibility in the same package is the most underappreciated truth in this entire space. The number of wallet drains that happen not through sophisticated exploits but through blind transaction approvals is staggering , Chainalysis estimated hundreds of millions lost annually to phishing and approval scams alone. Hardware wallets aren't optional paranoia for high-net-worth holders; they're the minimum viable security posture for anyone serious about staying in this game.",
+    "url": "https://www.linkedin.com/in/happiness-thomas/",
+    "age_h": 0.08333333333333333
+  },
+  "fec04dba84c092e0dbd8c14a7ac1812a": {
+    "date": "2026-05-06",
+    "snippet": "#P2P #PeerToPeer #P2PNetwork #P2PTransactions #P2PFinance #DigitalPayments #UPI #FinTech #DecentralizedFinance #DeFi #Bl",
+    "comment": "SKIP"
+  },
+  "0558601d81b1ef43e6f634fc01d3878d": {
+    "date": "2026-05-06",
+    "snippet": "The best geologists in mining sometimes make the wrong decisions.\n\nNot from lack of expertise. Because the mining indust",
+    "comment": "SKIP"
+  },
+  "db2d2c46477965e83a65883b59e74c21": {
+    "date": "2026-05-06",
+    "snippet": "WeekWatch\n\nThe S&P 500 and Nasdaq ended last week at record highs. Despite a spike in energy prices, market sentiment re",
+    "comment": "SKIP"
+  },
+  "2977462b6803a1f3be4eaa57e3d79529": {
+    "date": "2026-05-06",
+    "snippet": "Another milestone achieved in a milestone year for Reeves! \n\nAs we celebrate 30 years of supporting our clients, we are ",
+    "comment": "SKIP"
+  },
+  "128fe97d4cd6c3beee24631ab81eb763": {
+    "date": "2026-05-06",
+    "snippet": "NGX CUM-DIV DIVIDEND CALENDAR 2026\n\nTrack upcoming qualification dates, payment dates, and dividend opportunities across",
+    "comment": "SKIP"
+  },
+  "4ebc7769856a2cc14accd57a0383c1fa": {
+    "date": "2026-05-06",
+    "snippet": "\ud83d\udcb0 How to Structure Your Monthly Income (Simple & Effective Rule)\nManaging money doesn\u2019t have to be complicated. Here\u2019s a",
+    "comment": "SKIP"
+  },
+  "9e105a233fc52713b5ac918f24287cc0": {
+    "date": "2026-05-06",
+    "snippet": "Dhunseri Investments Ltd Q3 FY26: Revenue \u20b969.58 Cr, PAT -\u20b91.18 Cr, EPS -\u20b95.38 \u2014 0.22x Book Value But Profits Missing in",
+    "comment": "SKIP"
+  },
+  "43e5350c92788ade94808798f8435316": {
+    "date": "2026-05-06",
+    "snippet": "BTC Morning Signal: $81,540 \ud83d\udcc8\nReactor Core v3.1: +58.8 \ud83c\udf21\ufe0f\nStatus: THERMAL EXPANSION\n\nBitcoin has successfully cleared th",
+    "comment": "SKIP"
+  },
+  "2ddf6f470890264a817a370328649279": {
+    "date": "2026-05-06",
+    "snippet": "#Bitcoin in Europe this May: Madrid to Lisbon.\n\nMadBitcoin Summit (9-12 May) \nFREE Energy Summit (14 May)\n\nJoin us! \u26a1 \n\u2026",
+    "comment": "SKIP"
+  },
+  "d02419c4709375552946b01ded11a1cc": {
+    "date": "2026-05-06",
+    "snippet": "As a #freelancer and #translator, you can have a lot on your plate, keep many balls in the air & wear many hats... In Da",
+    "comment": "SKIP"
+  },
+  "228508a7458e71abb9285c6bb332c69f": {
+    "date": "2026-05-06",
+    "snippet": "Identifikasi Tren Menggunakan Analisa Multi Time Frame Untuk Menampung LUAPAN Cuan Trading Online 2026\n\nhttps://lnkd.in/",
+    "comment": "SKIP"
+  },
+  "eef45f729176a7ad311cf54801659c9a": {
+    "date": "2026-05-06",
+    "snippet": "#LIVE #FLASHLOAN #DEMO. Once in a Lifetime Opportunity for you to see Real Flashloan happening in front of you.  Enjoy! ",
+    "comment": "SKIP"
+  },
+  "ac1bf1706a9c19cdfe09937d218bacfe": {
+    "date": "2026-05-06",
+    "snippet": "TOP 15 BLOCKCHAINS BY REVENUE FOR THE LAST MONTH\n\n#Canton #Tron #Ethereum #Base #Polygon #Solana #BNBChain #Abstract #Ar",
+    "comment": "SKIP"
+  },
+  "b3989b028ca20303f2535473ab4b7767": {
+    "date": "2026-05-06",
+    "snippet": "$AAVE on the monthly timeframe is presenting one of the more interesting higher-timeframe Smart Money Concept structures",
+    "comment": "The liquidity sweep below the monthly demand zone before reclaiming it is the critical detail here , that's not noise, that's the market clearing weak hands and stop clusters before the next leg. What makes AAVE's structure more credible than most altcoin setups right now is that the demand zone originated from a genuine impulsive expansion, not a slow grind, which means the institutional order flow behind it was decisive rather than speculative.",
+    "url": "https://www.linkedin.com/in/adil-qadir-khan-05815b240/",
+    "age_h": 0.3333333333333333
+  },
+  "62bc3ea3f5ddcdd0ca0809378355aede": {
+    "date": "2026-05-06",
+    "snippet": "We brought NawoApp into a real party environment\u2026 and the response was incredible.\n\nWith a mini activation at Bills Loun",
+    "comment": "SKIP"
+  },
+  "b7cd4bd0b800d57e43b47fb993fa6cb3": {
+    "date": "2026-05-06",
+    "snippet": "The stablecoin cross-border payment story is being #oversold.\n\nRegulators just started proving it.\n\nThis month. Two head",
+    "comment": "Brazil's ban isn't a rejection of stablecoins , it's a rejection of regulatory arbitrage dressed up as financial innovation. The $6-8B monthly volume figure actually reveals the real issue: when stablecoins represent 90% of cross-border flow, central banks don't see efficiency, they see a parallel settlement system operating outside their monetary policy transmission. The \"last mile\" problem you've identified is real, but the deeper structural issue is that the pitch assumed regulatory tolerance would scale as fast as the technology did , and Brazil just proved that assumption wrong at exactly the moment volume became too large to ignore.",
+    "url": "https://www.linkedin.com/company/fintech-news-indonesia/posts/",
+    "age_h": -1
+  },
+  "b63140d69a84cfac67e3b9fb07379ebe": {
+    "date": "2026-05-06",
+    "snippet": "Malaysian Islamic banks command nearly half of the country's banking assets, yet industry leaders score the sector's dig",
+    "comment": "SKIP"
+  },
+  "8cd454fb043d534fa6b86a0c2cbe0aca": {
+    "date": "2026-05-06",
+    "snippet": "El microcr\u00e9dito digital ya no es un tema de acceso.\nEs un tema de decisiones.\nParticipar en el panel sobre microcr\u00e9dito ",
+    "comment": "SKIP"
+  },
+  "1f62a3f5b4d80491ca22e2307b4af025": {
+    "date": "2026-05-06",
+    "snippet": "I recently came across an interesting case while using Telegram\u2019s rating system \u2014 and decided to analyze it from a produ",
+    "comment": "SKIP"
+  },
+  "f154f298939ae2330fbfbc4aeb7f25a1": {
+    "date": "2026-05-06",
+    "snippet": "AI in the Wild - Day 4 of 10\nYour bank blocked a transaction at 2AM and asked - \"Was this you?\"\nThat wasn't your bank be",
+    "comment": "SKIP"
+  },
+  "f581a5fb63aa0479c9478fbf97728a1b": {
+    "date": "2026-05-06",
+    "snippet": "\ud83c\udfd7\ufe0f The \"#GhostLedger\" Move:\nIn #Uganda, we know that whoever has the most money controls the conversation, especially in",
+    "comment": "SKIP"
+  },
+  "03c425c7fe70062d2a5b663a67a10887": {
+    "date": "2026-05-06",
+    "snippet": "GENESIS CORE: ARCHITECTURE COMPLETE20 Layers. 20 Collections. One Singularity. \ud83c\udf0cThe Bureau is ready. From Base Lands (L1",
+    "comment": "SKIP"
+  },
+  "bfb93fe0a2589f2349c2d1f2424e6367": {
+    "date": "2026-05-06",
+    "snippet": "\ud83d\udc68\u200d\ud83d\udcbbMe complace compartir la finalizaci\u00f3n del programa Intermediate Track de Binance Academy, una formaci\u00f3n orientada al ",
+    "comment": "SKIP"
+  },
+  "5c2727f6f4f4359d40cef54125620974": {
+    "date": "2026-05-06",
+    "snippet": "If your business still relies on manual processes, spreadsheets, and gut feeling to operate this post is for you.\n\nWe wo",
+    "comment": "SKIP"
+  },
+  "d2d58c04f6758e23be1ae7d885e27d21": {
+    "date": "2026-05-06",
+    "snippet": "Transparency is not a claim - It\u2019s infrastructure.\n\nWith 7/Seven Chain, trading moves beyond closed systems into a real-",
+    "comment": "SKIP"
+  },
+  "60c9fc493448f54fe15c9b5cd22999dd": {
+    "date": "2026-05-06",
+    "snippet": "Europe\u2019s Digital Asset Market Is Entering a New Era \ud83e\udd96 \n\n2026 is becoming a defining year for digital assets in Europe.\n\n",
+    "comment": "MiCA's full enforcement in 2026 is less a finish line and more a filter , the companies that treated regulatory readiness as a competitive moat rather than a compliance burden are the ones positioned to capture cross-border EU market share at scale. The structural advantage here isn't just legal clarity, it's that passporting rights under MiCA effectively eliminate the cost of navigating 27 separate national frameworks, which was the single biggest barrier to institutional distribution of digital asset products in Europe.",
+    "url": "https://www.linkedin.com/company/finforta/posts/",
+    "age_h": 0.016666666666666666
+  },
+  "2d4b9447de331fa5c6e9e7df93b6652a": {
+    "date": "2026-05-06",
+    "snippet": "HODL\u201d started as a typo in 2013. During a major Bitcoin crash, a frustrated (and possibly drunk) Bitcointalk user famous",
+    "comment": "SKIP"
+  },
+  "537c4bbe0d0cd871af32f254144f68a2": {
+    "date": "2026-05-06",
+    "snippet": "If you've been affected by the recent layoffs at OKX or Coinbase, we're actively working on a few roles in the space.\n\n\ud83d\udd38",
+    "comment": "SKIP"
+  },
+  "6c1c7b00e1313ea3ba4dd5c2fb53e3b7": {
+    "date": "2026-05-06",
+    "snippet": "Ready to dive into the future of digital assets? \ud83d\ude80\n\nUnlock the power of blockchain with our \ud835\udc13\ud835\udc28\ud835\udc24\ud835\udc1e\ud835\udc27\ud835\udc22\ud835\udc33\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc05\ud835\udc2e\ud835\udc27\ud835\udc1d\ud835\udc1a\ud835\udc26\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc1a\ud835\udc25\ud835\udc2c \ud835\udc02\ud835\udc28",
+    "comment": "SKIP"
+  },
+  "37d58e887533b3a66b0f27f13001007f": {
+    "date": "2026-05-06",
+    "snippet": "Congratulations R\u00e9mi Jonqui\u00e8res and the team on this exciting partnership with Shelters. This is a strong move toward ma",
+    "comment": "SKIP"
+  },
+  "aedf29118165cd06811fcb3bae11044b": {
+    "date": "2026-05-06",
+    "snippet": "We\u2019re pleased to announce our partnership with Shelters, a French FinTech redefining access to real estate investment th",
+    "comment": "SKIP"
+  },
+  "0825a3b899f3f2f6a3283eaf9bc4729d": {
+    "date": "2026-05-06",
+    "snippet": "#AVAX Update\n\nAvalanche is holding above the lower boundary of a weekly descending triangle, maintaining structure at a ",
+    "comment": "SKIP"
+  },
+  "f5b5c42cfceb67f5b60eee85acced40a": {
+    "date": "2026-05-06",
+    "snippet": "Can a fee fix address Polygon's competitive challenges?\n\u27a1\ufe0f Read All : https://lnkd.in/gncVzJ-N\n\nPolygon, the leading Eth",
+    "comment": "Fee restructuring alone won't resolve the core pressure Polygon faces , Arbitrum and Base have been capturing developer mindshare precisely because their UX and liquidity depth compound over time, not because of tokenomics mechanics. The real competitive question for Polygon is whether the AggLayer thesis gains enough traction to differentiate it structurally, and a fee redistribution model doesn't answer that. Without a clear narrative advantage in the next 12 months, this risks being a technical adjustment that the market shrugs at.",
+    "url": "https://www.linkedin.com/company/nbtc-sas/posts/",
+    "age_h": 0.1
+  },
+  "c65b5398c01f0e6105183f85e02c0421": {
+    "date": "2026-05-06",
+    "snippet": "Ya llevamos dos d\u00edas de Cripto IA 3 en 4\u2026 y est\u00e1 siendo una aut\u00e9ntica locura.\n\nEl primer d\u00eda hablamos de la oportunidad ",
+    "comment": "SKIP"
+  },
+  "e0009ac67eeae0eec88f0925ac1b37b8": {
+    "date": "2026-05-06",
+    "snippet": "How are we feeling today, traders? \ud83d\udc40\n\nFear or greed?\n\n#CryptoTrading #Bitcoin #Altcoins #GroveX\n\u2026 more",
+    "comment": "SKIP"
+  },
+  "4fd5e85fdbd4fd235567cc260509f9d3": {
+    "date": "2026-05-06",
+    "snippet": "Solana Builds Payment Rails for AI Machine Economy: Lily Liu on May 6, 2026 said Solana targets machine-to-machine payme",
+    "comment": "Machine-to-machine payments are where Solana's throughput story finally meets a use case that actually demands it. Consumer payments can tolerate latency , autonomous agents executing thousands of microtransactions per second cannot, and that's where 50,000 tps stops being a marketing number and becomes a hard technical requirement. With stablecoin supply already past $150B, the settlement layer exists; what's been missing is infrastructure built around non-human transaction patterns. Lily Liu naming this explicitly in 2026 signals Solana is positioning for the agentic economy before most chains have even acknowledged it's coming.",
+    "url": "https://www.linkedin.com/company/fazen-markets/posts/",
+    "age_h": 0.2
+  },
+  "adb60c33646b3a4188e4412c2a4a7831": {
+    "date": "2026-05-07",
+    "snippet": "Building GFM | Global Finance Media from California.\n\nGFM is an AI-driven institutional media infrastructure focused on ",
+    "comment": "SKIP"
+  },
+  "deabfd576270d56da6e1ead0c697c697": {
+    "date": "2026-05-07",
+    "snippet": "Gm future Builder! \ud83d\ude00 \ud83d\ude80 \u2764\ufe0f \ud83c\udf0d\n\n20 years in Banking and Payment systems (EMV Cards, Swift) as freelance  \ud83c\udfe6 + 10 years in Bl",
+    "comment": "SKIP"
+  },
+  "e8104d3258c8ed40ac387abc97d952b2": {
+    "date": "2026-05-07",
+    "snippet": "OpenTrade\u2019s recent $17M funding round marks a critical shift for the digital asset industry. As the stablecoin market ma",
+    "comment": "The $250M+ volume figure is the real headline here , it demonstrates that permissioned yield infrastructure isn't a niche product, it's already processing at institutional scale. What OpenTrade's round actually signals is that the stablecoin yield layer is becoming the margin battleground for every B2B digital asset platform, and whoever owns that infrastructure owns the stickiest part of the stack. The $310B stablecoin market has been sitting largely idle in terms of yield generation , that gap is closing fast, and the window to build defensible credit product infrastructure is narrower than most platforms realize.",
+    "url": "https://www.linkedin.com/company/btse-enterprise-solutions/posts/",
+    "age_h": 1
+  },
+  "c9d2eca5d16c813c9ba8b6a590c04268": {
+    "date": "2026-05-07",
+    "snippet": "Why Digital Gold is Gaining Attention Again: An Analysis of Crypworld Gold Amidst the Bitcoin Bull Market\n\nAs the 2026 c",
+    "comment": "SKIP"
+  },
+  "9b0032527662228c792e77ab7d39c667": {
+    "date": "2026-05-07",
+    "snippet": "Donuts Capital is expanding its global scout Network , ScoutX, and inviting active participants from the Web3 ecosystem ",
+    "comment": "SKIP"
+  },
+  "f91b7a3477a6cab7f6a83570ebaf0038": {
+    "date": "2026-05-07",
+    "snippet": "El futuro de Latinoam\u00e9rica no solo es digital, es regenerativo. \ud83c\udf0e\nHoy presentamos oficialmente el ecosistema de Circulab",
+    "comment": "SKIP"
+  },
+  "082843b3a265d699c99a9aaa113810c9": {
+    "date": "2026-05-07",
+    "snippet": "The market is entering a phase where liquidity, AI, and digital infrastructure are becoming deeply interconnected.\nOver ",
+    "comment": "The framing of liquidity fragmentation as a structural risk , not just an operational nuisance , is where this analysis gets genuinely interesting. Most firms treating tokenization as a distribution play are underestimating how badly fragmented liquidity across chains and venues distorts price discovery and amplifies drawdown risk in stress scenarios. The firms that figure out real-time risk aggregation across fragmented markets won't just survive the next cycle , they'll define what market structure looks like after it.",
+    "url": "https://www.linkedin.com/company/gft-technologies-apac-gcc/posts/",
+    "age_h": 0.016666666666666666
+  },
+  "d82a6650028dfdf56bbe61094e4c0b24": {
+    "date": "2026-05-07",
+    "snippet": "Across digital asset markets, the focus is shifting from \u201cwhat can be tokenized?\u201d to \u201cwhat outcomes tokenization can ena",
+    "comment": "The shift from \"what can be tokenized\" to \"what outcomes tokenization enables\" is the right reframe , and climate finance is one of the few verticals where that distinction genuinely matters. The real bottleneck in carbon markets has never been capital availability, it's been verification integrity, and programmable MRV tied to on-chain settlement directly attacks that problem. Tokenized carbon instruments that carry real-time environmental data embedded in the asset itself are a structurally different product from legacy offsets , that's not incremental, that's a new market architecture.",
+    "url": "https://www.linkedin.com/company/gft-technologies-apac-gcc/posts/",
+    "age_h": 0.016666666666666666
+  },
+  "b538ea40df86de78d37720a2f7d444f1": {
+    "date": "2026-05-07",
+    "snippet": "Thank you \u4e16\u754c\u7da0\u8272\u7d44\u7e54 (World Green Organisation) for organizing Build4Asia\u2014really appreciate the effort and the great platfor",
+    "comment": "The point about tokenization lowering the lending threshold for smaller companies is where the real structural argument lives. Most tokenization conversation focuses on large institutional assets, but the genuine unlock is at the bottom of the capital stack , companies too small for green bond markets but too legitimate to be locked out of structured finance entirely. Third-party verification frameworks acting as trust infrastructure for banks isn't a new concept, but applying it to tokenized credit access for sub-institutional players is exactly the right direction.",
+    "url": "https://www.linkedin.com/in/mantonwai/",
+    "age_h": 0.08333333333333333
+  },
+  "612145784d908cf5f90da734173a984d": {
+    "date": "2026-05-07",
+    "snippet": "Real estate has long been the gold standard for wealth building, but the high barrier to entry has kept many potential i",
+    "comment": "SKIP"
+  },
+  "6deb0974b3c485d3fc006dc55f31459c": {
+    "date": "2026-05-07",
+    "snippet": "A real estate sponsor closes his eighth deal.\n\nThe structure is the same as the previous seven: Delaware LLC, PPM, 506(b",
+    "comment": "The 15% administrative overhead figure is the number every real estate sponsor should be staring at , because that's not a back-office inefficiency, that's carry being eaten alive before a single dollar reaches investors. The comparison between three weeks to process quarterly distributions versus hours isn't a marginal improvement, it's a structural indictment of how private real estate capital has operated for decades. What tokenization actually does is make the plumbing visible , and once you see how expensive invisible infrastructure really is, the conversation shifts fast.",
+    "url": "https://www.linkedin.com/in/jasonmichaelpowell/",
+    "age_h": 5
+  },
+  "287eecbc9d46bf0d98574344da74c8d5": {
+    "date": "2026-05-07",
+    "snippet": "The future of digital platforms is shifting from subscriptions to ownership.\nAt REAL, we\u2019re building a token-gated ecosy",
+    "comment": "SKIP"
+  },
+  "bbd6cc0a77e79b36c6caae4e3461fdbb": {
+    "date": "2026-05-07",
+    "snippet": "Expanding the Digital Asset Dialogue in Karachi\n\nA big thank you to the organizers of the Leadership Summit on Digital A",
+    "comment": "SKIP"
+  },
+  "b2d06cd4712102d36bf262318f674637": {
+    "date": "2026-05-07",
+    "snippet": "What happens when a USD 400B #realestate market meets #blockchain infrastructure?\n\n#Pakistan is chasing #crypto exchange",
+    "comment": "The $400B figure is striking, but the real bottleneck isn't tokenization technology , it's title clarity. Pakistan's property records are notoriously contested, with overlapping claims, undocumented transfers, and politically influenced registries that would corrupt any on-chain system built on top of them. PVARA can regulate exchanges and digital assets, but no regulatory authority can tokenize trust into a land registry that doesn't yet deserve it. The UAE and Switzerland succeeded not because they moved fast, but because their legal foundations for ownership were already clean.",
+    "url": "https://www.linkedin.com/company/trwalab/posts/",
+    "age_h": 15
+  },
+  "ca9c6a465453ac84b392196e6635d9fe": {
+    "date": "2026-05-07",
+    "snippet": "Real estate was never designed to be liquid.\n\nTokenization is trying to change that.\n\nBut here\u2019s the part most investors",
+    "comment": "The distinction between owning property and holding a structured digital claim on it is the most underappreciated risk in the entire RWA tokenization narrative. Most token structures sit inside an SPV or trust layer, which means your actual recourse in a dispute runs through off-chain legal jurisdictions , not the smart contract. Liquidity on-chain means nothing if the enforcement mechanism is a court case in a jurisdiction with no tokenization precedent.",
+    "url": "https://www.linkedin.com/company/finlaw-consultancy-pvt-ltd/posts/",
+    "age_h": 15
+  },
+  "9ebcda552f63cf09cf1b20250c9493d2": {
+    "date": "2026-05-07",
+    "snippet": "part 3 about huff ----->>\n\n\n\n#HuffLanguage #EVM #Ethereum #SmartContracts #BlockchainDevelopment #Web3 #Solidity #DeFi #",
+    "comment": "SKIP"
+  },
+  "8f7697a3ea6e5da0a594d4a600883674": {
+    "date": "2026-05-07",
+    "snippet": "#AI #MachineLearning #DeepLearning #NeuralNetworks #ArtificialIntelligence #LLM #AutonomousAgents #GenerativeAI #PromptE",
+    "comment": "SKIP"
+  },
+  "624f6262115feb852fa02b911f14d0a6": {
+    "date": "2026-05-07",
+    "snippet": "Asset Tokenization to #IEO, that is one way to access capital markets. Keep it simple with an #ICO + #PPM offering. \n\nAt",
+    "comment": "SKIP"
+  },
+  "a71b66acc76c798ac7d0f9a36ee6de5e": {
+    "date": "2026-05-07",
+    "snippet": "\ud83c\uddfa\ud83c\uddf8 I\u2019m pleased to share our new publication in Digital Finance:\n\u201cBlockchain and the Future of Credit: An Overview of P2P",
+    "comment": "SKIP"
+  },
+  "0c8a01dc15e420fcb989a2a87adeef47": {
+    "date": "2026-05-07",
+    "snippet": "\ud83d\udcda Comparto la publicaci\u00f3n de mi art\u00edculo:\n\u201cBlockchain y Derecho: Aplicaciones y desaf\u00edos de la implementaci\u00f3n de la tecn",
+    "comment": "SKIP"
+  },
+  "e258a03c95cd08a4a1c6dd639cf99d5f": {
+    "date": "2026-05-07",
+    "snippet": "THE ANONYMITY PROTOCOL:\n\n Why the Kings Ark is the Safest Arena for Global Capital \ud83d\udee1\ufe0f\ud83d\udcb0\n\n\n\u200bThe old way of networking is l",
+    "comment": "SKIP"
+  },
+  "2e565ea696f85227ca9ea5e80e088e60": {
+    "date": "2026-05-07",
+    "snippet": "The recent amendments introduced by the \"Capital Market Authority, The Chairman of the Authority\u2019s Board of Directors\u2019 D",
+    "comment": "SKIP"
+  },
+  "a93acc854a35d19be7a7a2093b0f3411": {
+    "date": "2026-05-07",
+    "snippet": "The trade was executed perfectly, but it still failed on settlement. \n\nThis is the reality of Capital Markets Operations",
+    "comment": "SKIP"
+  },
+  "7c7e1fece6eb571ae6bcc2624617a18d": {
+    "date": "2026-05-07",
+    "snippet": "\u201cWe\u2019ve spoken to hundreds of traders\u2026\n\n\u2026and almost none of them are institutionally allocatable.\u201d\n\nThat\u2019s the quiet frus",
+    "comment": "SKIP"
+  },
+  "f1ed6e85126e49262d68f586a9d1615a": {
+    "date": "2026-05-07",
+    "snippet": "#Canada\ud83c\udde8\ud83c\udde6\ud83d\udea8 **LIVE FORENSIC INTEL: The \"Great Rotation\" Sweeps the Tape** \ud83d\udea8\n\ud83e\udde0 Smart Money is aggressively repositioning o",
+    "comment": "SKIP"
+  },
+  "b06497e94e2034b88605a782c9bddcc1": {
+    "date": "2026-05-07",
+    "snippet": "\ud835\udc7e\ud835\udc89\ud835\udc82\ud835\udc95 \ud835\udc8a\ud835\udc87 \ud835\udc9a\ud835\udc90\ud835\udc96 \ud835\udc94\ud835\udc82\ud835\udc98 \ud835\udc82 \ud835\udc91\ud835\udc96\ud835\udc93\ud835\udc91\ud835\udc8d\ud835\udc86 \ud835\udc84\ud835\udc90\ud835\udc98? \ud835\udc7e\ud835\udc90\ud835\udc96\ud835\udc8d\ud835\udc85 \ud835\udc9a\ud835\udc90\ud835\udc96 \ud835\udc94\ud835\udc95\ud835\udc90\ud835\udc91 \ud835\udc95\ud835\udc90 \ud835\udc8d\ud835\udc90\ud835\udc90\ud835\udc8c?\u00a0\n\ud835\udc7e\ud835\udc90\ud835\udc96\ud835\udc8d\ud835\udc85 \ud835\udc9a\ud835\udc90\ud835\udc96 \ud835\udc95\ud835\udc86\ud835\udc8d\ud835\udc8d \ud835\udc9a\ud835\udc90\ud835\udc96\ud835\udc93 \ud835\udc87\ud835\udc93\ud835\udc8a\ud835\udc86\ud835\udc8f\ud835\udc85\ud835\udc94?\n\nSeth Godin has a line I think about",
+    "comment": "SKIP"
+  },
+  "9acb13654b503307355ebb26fb1830cd": {
+    "date": "2026-05-07",
+    "snippet": "Crypto exchange Bullish to buy Equiniti for $4.2 billion in capital markets push\n#Bullish #Equiniti #Acquisition #Merger",
+    "comment": "A crypto exchange acquiring a 200-year-old transfer agency for $4.2 billion is one of the clearest signals yet that the integration between TradFi infrastructure and digital asset rails is moving beyond pilot programs. Bullish isn't buying Equiniti for its legacy business , it's buying regulated access, institutional client relationships, and the compliance scaffolding that most crypto-native firms have spent years trying to build from scratch. This is what crypto infrastructure consolidation actually looks like when it gets serious.",
+    "url": "https://www.linkedin.com/in/hasna-iftinan-baidhou-81b2b022a/en/",
+    "age_h": 1
+  },
+  "aca4e456cb0bd22d481623d7a794c3a2": {
+    "date": "2026-05-07",
+    "snippet": "How do emerging private credit managers scale without diluting their strategy?\r\n\r\nIn our latest feature, Zenzic Capital ",
+    "comment": "SKIP"
+  },
+  "ee71dd6ab8289e43bdc024dba28bc788": {
+    "date": "2026-05-07",
+    "snippet": "\ud83d\udccc Warren Buffett passed on tech in the late 1990s. It looked genius when the dotcom bubble burst. Two decades on, it loo",
+    "comment": "SKIP"
+  },
+  "7395000d8294481dc4784f5cec27f099": {
+    "date": "2026-05-07",
+    "snippet": "\ud835\udc00\ud835\udc08 \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc1d\ud835\udc22\ud835\udc2d \ud835\udc0f\ud835\udc25\ud835\udc1a\ud835\udc2d\ud835\udc1f\ud835\udc28\ud835\udc2b\ud835\udc26\ud835\udc2c: \ud835\udc0f\ud835\udc28\ud835\udc30\ud835\udc1e\ud835\udc2b\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc2d\ud835\udc21\ud835\udc1e \ud835\udc05\ud835\udc2e\ud835\udc2d\ud835\udc2e\ud835\udc2b\ud835\udc1e \ud835\udc28\ud835\udc1f \ud835\udc03\ud835\udc22\ud835\udc20\ud835\udc22\ud835\udc2d\ud835\udc1a\ud835\udc25 \ud835\udc0b\ud835\udc1e\ud835\udc27\ud835\udc1d\ud835\udc22\ud835\udc27\ud835\udc20\n\nAI Platform Lending Market is projected to reach USD 3.9 bi",
+    "comment": "SKIP"
+  },
+  "10628ae50a88425cd124416716dfa861": {
+    "date": "2026-05-07",
+    "snippet": "The Finance function is evolving rapidly, and what led to success in the past may not suffice in the future. Here are fi",
+    "comment": "SKIP"
+  },
+  "faccdb06e95182116fb9481f4eefdf93": {
+    "date": "2026-05-07",
+    "snippet": "80% of board prep is just copying and pasting from different systems. Only 20% is spent on actual strategy.\n\nWelcome to ",
+    "comment": "SKIP"
+  },
+  "fb5f4c33aab0ff529308f36ba4e1b47c": {
+    "date": "2026-05-07",
+    "snippet": "Powerful conversations are rare.\nConversations with people who have built trust at scale are even rarer.\n\nHad the privil",
+    "comment": "SKIP"
+  },
+  "6887535e513736c6273c0f9064842dba": {
+    "date": "2026-05-07",
+    "snippet": "We live in an era obsessed with digital shortcuts, but algorithms cannot underwrite character.\n\n\u200bLast month, I had the p",
+    "comment": "SKIP"
+  },
+  "8bb0e60d892022b3068e45bf7cea1314": {
+    "date": "2026-05-07",
+    "snippet": "\ud83d\udd25Digital infrastructure is about reducing the \u201ccost of trust\u201d across an economy and not about efficiency.\n\nThat changes ",
+    "comment": "The \"cost of trust\" framing is sharper than most digital infrastructure narratives , but the real proof point is already live in blockchain-native systems where trust is enforced by protocol, not institution. Programmable compliance and interoperable identity aren't hypothetical by 2050; they're being stress-tested in DeFi today, and the results are exposing just how much legacy financial infrastructure charges as a rent for being the trusted intermediary.",
+    "url": "https://www.linkedin.com/in/jydigital/",
+    "age_h": 0.5
+  },
+  "d2288ab8eb3fb9f231259b7cb7828aaa": {
+    "date": "2026-05-07",
+    "snippet": "Buy & Sell Signals (~TROLLUSDT) Proactive Strategies: The Fundamental Case for TROL - TetherUS ~TROLLUSDT Using a Price ",
+    "comment": "SKIP"
+  },
+  "a6894795b77c0ea2285a1fc21f6ef2d7": {
+    "date": "2026-05-07",
+    "snippet": "Founders pitch ideas. VCs demand proof.\nCryptorafts gives both a common ground verified signals, structured data, and re",
+    "comment": "SKIP"
+  },
+  "75657e3374a716604b4c83f9855d931c": {
+    "date": "2026-05-07",
+    "snippet": "1inch TrustedVolumes Exploit Drains $5.9M: TrustedVolumes exploit drained $5.9M on May 7, 2026; attacker linked to March",
+    "comment": "The same attacker pulling off a second exploit , $5M in March 2025, now $5.9M in May 2026 , is not a coincidence, it's a pattern of targeted reconnaissance. What this reveals about 1inch's exploit surface is that the Fusion V1 breach was never fully contained at the threat actor level, only patched at the contract level. DeFi protocols need to treat repeat attacker attribution as a security signal, not just a post-mortem footnote.",
+    "url": "https://www.linkedin.com/company/fazen-markets/posts/",
+    "age_h": 0.3
+  },
+  "58d8465de06a7418adde1610acbcd42b": {
+    "date": "2026-05-07",
+    "snippet": "Keeping things strong as we wrap up Day 2.\n\nToday we connected with leaders driving the transition from traditional fina",
+    "comment": "SKIP"
+  },
+  "419503994a4472949b5f4439a6b1cb97": {
+    "date": "2026-05-07",
+    "snippet": "#DefAI #DealRoom \ud83d\udcb0\ud83e\udeb4\ud83d\ude4f\ud83c\udfff\n\n#Discovery call \ud83d\udcde\n\nhttps://lnkd.in/gZDy29Ca\n\n#DeCode the #Code \u20b9\n\nhttps://lnkd.in/gSgvca_T\n\nThank",
+    "comment": "SKIP"
+  },
+  "1cddab033047d725f528da1017bd0683": {
+    "date": "2026-05-07",
+    "snippet": "Bitcoin reached $82,000 for the first time since January, now trading back at $81,400. \n\nApril saw $1.97B flow into spot",
+    "comment": "$108B in ETF AUM after just over a year of trading is not a footnote , it's the fastest asset accumulation in ETF history, and it reframes Bitcoin from speculative bet to legitimate portfolio allocation. The $1.97B April inflow during a period of macro uncertainty tells you institutional buyers aren't waiting for clarity, they're positioning ahead of it.",
+    "url": "https://www.linkedin.com/company/blockbyte-capital/posts/",
+    "age_h": 0.6666666666666666
+  },
+  "b2ceece10ccb4698f4035b7ccfcd9895": {
+    "date": "2026-05-07",
+    "snippet": "Circle anchoring its first non-US Payouts API launch in Singapore is a deliberate regulatory arbitrage play \u2014 and a clea",
+    "comment": "Singapore's regulatory clarity on stablecoins isn't accidental , MAS spent years building a framework that separates payment tokens from securities, giving infrastructure players like Circle the legal certainty to commit. BNM's challenge is that sitting in the middle isn't a neutral position; in a regional race for stablecoin infrastructure, ambiguity is effectively a vote for late-follower status. Malaysian institutions watching Circle anchor in Singapore should treat this as a countdown, not a trend piece.",
+    "url": "https://www.linkedin.com/in/danny-leong/",
+    "age_h": 1
+  },
+  "6f60fa7369389e5431b2b29a95e0f55d": {
+    "date": "2026-05-07",
+    "snippet": "Exploring the innovative yield market of Pendle, which has generated 57 million in protocol revenue and is available on ",
+    "comment": "Pendle's $57M in protocol revenue is worth paying attention to because it proves the yield-splitting mechanic isn't just a clever structure , it's generating real economic activity. The more interesting signal though is how PT/YT separation is forcing traders to think about interest rate risk the same way TradFi desks do, which is a level of sophistication most DeFi protocols haven't reached. BGB's $8.1T in derivatives volume alongside 120M users reflects how exchange tokens have evolved from discount vouchers into genuine utility assets tied to platform cash flows , that's a structurally different value proposition than where CEX tokens started.",
+    "url": "https://www.linkedin.com/company/decentralised-news/posts/",
+    "age_h": 1
+  },
+  "d023f286c6fdaa11b503bb5fe36e89d8": {
+    "date": "2026-05-07",
+    "snippet": "Just finished the course \u201cBlockchain Basics\u201d by Jonathan Reichental! Check it out: https://lnkd.in/eGqtvhRi #cryptocurre",
+    "comment": "SKIP"
+  },
+  "02749dad293e1d2f1e34b7911c282ff2": {
+    "date": "2026-05-07",
+    "snippet": "Hire your virtual assistant now with team V Care\n#bitcoin #crypto #ethereum #cryptorecovery #cryptotrading #cryptocurren",
+    "comment": "SKIP"
+  },
+  "61537d48c345f56eb06e1ed53c794e4f": {
+    "date": "2026-05-07",
+    "snippet": "Happening tomorrow! Come and join us for a session by CryptoCurrency Certification Consortium (C4).\n\n#Crypto #CryptoCurr",
+    "comment": "SKIP"
+  },
+  "4a44b10321b10fccf8048e613a5681a5": {
+    "date": "2026-05-07",
+    "snippet": "Our 3-part CCSS Deep Dive livestream series starts tomorrow! \n\nJoin us for our first 1-hour session, this one dedicated ",
+    "comment": "SKIP"
+  },
+  "bdad7bc259f03c0029cb15b1e0754382": {
+    "date": "2026-05-07",
+    "snippet": "The NASDAQ 100 has been above & not touched the 10 Day Moving Average for 20 consecutive days. Historically, this saw $N",
+    "comment": "SKIP"
+  },
+  "bfa23028bcfe47e31ce3543198af9f2f": {
+    "date": "2026-05-07",
+    "snippet": "Holding the Line \u2014 But for How Long?\n\nThe Fed kept rates unchanged, but the real story was the sharpest internal divide ",
+    "comment": "The four-way dissent is the real signal here , not the hold itself. When the Fed's internal consensus fractures that sharply, forward guidance loses its anchor, and bond markets are essentially flying without a reliable map. For crypto specifically, this kind of macro ambiguity historically compresses risk appetite short-term but accelerates the conversation around non-sovereign stores of value over the medium term.",
+    "url": "https://www.linkedin.com/company/yieldreport/posts/",
+    "age_h": 0.016666666666666666
+  },
+  "e5cf6816a7f40992aba113a44bfdbd41": {
+    "date": "2026-05-07",
+    "snippet": "\ud83d\udcca While everyone is busy chasing the next \u201cAI-powered moonshot app\u201d...\n\nCAMS is quietly sitting behind India\u2019s mutual fu",
+    "comment": "SKIP"
+  },
+  "1486b0dfb2ecfe56916f4c8a20742877": {
+    "date": "2026-05-07",
+    "snippet": "\ud835\udc0c\ud835\udc28\ud835\udc2c\ud835\udc2d \ud835\udc22\ud835\udc27\ud835\udc2f\ud835\udc1e\ud835\udc2c\ud835\udc2d\ud835\udc28\ud835\udc2b\ud835\udc2c \ud835\udc1f\ud835\udc1e\ud835\udc1a\ud835\udc2b \ud835\udc26\ud835\udc1a\ud835\udc2b\ud835\udc24\ud835\udc1e\ud835\udc2d \ud835\udc1c\ud835\udc2b\ud835\udc1a\ud835\udc2c\ud835\udc21\ud835\udc1e\ud835\udc2c.\n\ud835\udc01\ud835\udc2e\ud835\udc2d \ud835\udc2d\ud835\udc21\ud835\udc1e \ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc25 \ud835\udc30\ud835\udc1e\ud835\udc1a\ud835\udc25\ud835\udc2d\ud835\udc21 \ud835\udc1d\ud835\udc1e\ud835\udc2c\ud835\udc2d\ud835\udc2b\ud835\udc28\ud835\udc32\ud835\udc1e\ud835\udc2b? \ud835\udc08\ud835\udc27\ud835\udc1f\ud835\udc25\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27.\n\nAnd the worst part \u2014 it\u2019s invisible.\nNo p",
+    "comment": "SKIP"
+  },
+  "1eeb42788530a5f2e18b07f34bd38434": {
+    "date": "2026-05-07",
+    "snippet": "Framework th\u00ec ai c\u0169ng c\u00f3 th\u1ec3 hi\u1ec3u. Nh\u01b0ng \u0111i\u1ec1u kh\u00f3 h\u01a1n l\u00e0 \u00e1p d\u1ee5ng n\u00f3 m\u1ed7i ng\u00e0y.\n\nSau khi n\u00f3i v\u1ec1 vi\u1ec7c c\u1ea7n m\u1ed9t c\u00e1ch ti\u1ebfp c\u1eadn",
+    "comment": "SKIP"
+  },
+  "76a07032311af541c93e00adcd093e0d": {
+    "date": "2026-05-07",
+    "snippet": "Proud to see my colleague Jennifer Taboada recognized for sharing great insights at this year\u2019s Women Advisors Summit. L",
+    "comment": "SKIP"
+  },
+  "3f5781fe8ea705e13b239dbb09696180": {
+    "date": "2026-05-07",
+    "snippet": "Thank you to Jennifer Taboada for delivering great insights at this year's Women Advisors Summit! Special thanks to Inve",
+    "comment": "SKIP"
+  },
+  "6df367923a9ff743f0eaa550c83d6a4f": {
+    "date": "2026-05-07",
+    "snippet": "This is exactly why I\u2019m backing Cryptorafts\nFounders bring the vision. VCs want proof. Cryptorafts is building the bridg",
+    "comment": "SKIP"
+  },
+  "e10ab69d3fa74e6b7a92d89a5804cbab": {
+    "date": "2026-05-07",
+    "snippet": "Buy & Sell Signals (~TUSDT) Investment Analysis and Advice: Timing Trades in TLCO - TetherUS ~TUSDT can be Risky if you ",
+    "comment": "SKIP"
+  },
+  "6fdf7c4695bd62c5c55ca5917540c648": {
+    "date": "2026-05-07",
+    "snippet": "Bitunix is Looking for Live Streamers \u2014 Experienced & Beginners Both Welcome! \ud83c\udf99\ufe0f\ud83d\udcc8\nIf you\u2019re a crypto or trading live str",
+    "comment": "SKIP"
+  },
+  "4cb82c3a5bcaec6014382accb7b6ca15": {
+    "date": "2026-05-07",
+    "snippet": "XRP's current consolidation at $1.40 resistance presents a compelling case study in whale accumulation patterns and mark",
+    "comment": "SKIP"
+  },
+  "19edbaa1ff3ff470c817ec5b376ead6e": {
+    "date": "2026-05-07",
+    "snippet": "Ready to take your brand to the next level?\n\nAt ZTEC, we help businesses grow on all major social media platforms with p",
+    "comment": "SKIP"
+  },
+  "28575cd9ce84aa1718961cdb0b9c2bfd": {
+    "date": "2026-05-07",
+    "snippet": "\ud83d\udc8e CryptoIZ AI scanner flex mode\r\n\r\nLast 24h winners:\r\n\r\n\ud83d\udd25 $USDUC +90.5%\r\n\ud83d\udd25 $Tokabu +78.6%\r\n\ud83d\udd25 $LMAO! +66.1%\r\n\ud83d\udd25 $Goblin +6",
+    "comment": "SKIP"
+  },
+  "0262111af295a9222a35acc8e914c8ce": {
+    "date": "2026-05-07",
+    "snippet": "Solana has underperformed the broader crypto market since late 2024.\n\nThat gap is not a sign of weakness. It may be the ",
+    "comment": "SKIP"
+  },
+  "c8ebaae83319620d4b94fb2e4630bbe0": {
+    "date": "2026-05-07",
+    "snippet": "Here is a before and after from Cursor IDE to the new Claude designer. WOW, what a difference ! Cursor is great at code,",
+    "comment": "SKIP"
+  },
+  "71678a144b8b3c824e8fcefc6d632e5e": {
+    "date": "2026-05-07",
+    "snippet": "\ud83d\ude80 **Solana Foundation + Google Cloud = Stablecoin payments for AI agents!**\n\nAI agents can now find, use, and pay for en",
+    "comment": "The Solana-Google Cloud integration for AI agent payments is more significant than it appears on the surface , stablecoin settlement for machine-to-machine API transactions removes the last major friction point that kept autonomous AI systems dependent on legacy payment rails. When AI agents can programmatically negotiate and pay for compute resources in real time, the velocity of AI-driven financial workflows changes entirely. Solana's throughput capacity wasn't built for human transaction speeds , it was always better suited for exactly this kind of high-frequency, low-latency machine economy.",
+    "url": "https://www.linkedin.com/company/ftis/posts/",
+    "age_h": 2
+  },
+  "4f87ab72838975eca5978508823bd316": {
+    "date": "2026-05-07",
+    "snippet": "Recent Trends in Credit Underwriting in Banks and Financial Institutions\n\nThe landscape of credit underwriting is underg",
+    "comment": "SKIP"
+  },
+  "e8e9e4cb51976ae3ecb559d2ad4d6c9d": {
+    "date": "2026-05-07",
+    "snippet": "\ud83c\uddfa\ud83c\uddf8 TokenInsider   Why the U.S. CLARITY Act & GENIUS Act Matter Globally\n\nThe United States is entering a new era of digi",
+    "comment": "The CLARITY Act's SEC/CFTC jurisdictional split is the harder problem to solve , stablecoin reserve mandates are straightforward compared to drawing a clean line between a commodity and a security in a market that wasn't built with those categories in mind. If the GENIUS Act passes first, you'll have regulated stablecoin infrastructure operating inside a market still fighting over who governs the underlying assets, and that asymmetry creates real compliance risk for issuers and institutions trying to build on both rails simultaneously.",
+    "url": "https://www.linkedin.com/in/prasannalohar/",
+    "age_h": 0.6666666666666666
+  },
+  "504a31b20c4c4273de1d9f5a947bc61a": {
+    "date": "2026-05-07",
+    "snippet": "\ud83d\udea8 Morgan Stanley\u2019s Entry Into Spot Crypto Trading Is Not About Crypto Anymore \u2014 It\u2019s About the Future Shape of Global Ba",
+    "comment": "Morgan Stanley routing spot crypto through E*TRADE's existing retail infrastructure is the quietly significant part of this move , it bypasses the onboarding friction that killed adoption on native crypto platforms. The stablecoin point deserves more weight: once institutional rails normalize digital asset flows, stablecoins don't need a separate adoption moment, they inherit the distribution network that already exists.",
+    "url": "https://www.linkedin.com/in/amit-ranjan1/",
+    "age_h": 4
+  },
+  "92f6d33f9254734852a29d8b93da69e3": {
+    "date": "2026-05-07",
+    "snippet": "Bangladesh\u2019s migrant workers send home over $30 billion a year \u2014 and lose billions to outdated payment systems in the pr",
+    "comment": "The Saudi corridor cost spiking from 1% to nearly 12% between 2021 and 2024 is the number that should be making headlines , that's not friction, that's extraction. Stablecoin rails and blockchain-based remittance networks already move money at under 1% cost with near-instant settlement, and Bangladesh's $30 billion corridor is exactly the kind of volume that makes those alternatives economically inevitable. The question isn't whether crypto infrastructure solves this , it's why regulators in Dhaka are still treating it as a risk rather than a solution.",
+    "url": "https://www.linkedin.com/in/masroor-talukder-213ab2122/",
+    "age_h": 4
+  },
+  "3508887f328716778a740031984883ec": {
+    "date": "2026-05-07",
+    "snippet": "I believe the $2.7 trillion crypto market is trying to build a skyscraper on a foundation that still lacks structural cl",
+    "comment": "The Tillis-Alsobrook framing cuts to the core tension Perkins is glossing over , \"just fine\" describes current market function, not institutional access. Pension funds and sovereign wealth funds operate under fiduciary mandates that require jurisdictional clarity before deployment, and no amount of ETF inflow changes that constraint. The $2.7 trillion figure actually makes the case against complacency: that's the ceiling without serious institutional capital, not the floor with it.",
+    "url": "https://www.linkedin.com/in/christopher-perkins-092569a/",
+    "age_h": 0.75
+  },
+  "5a369b53ca4cf0e8dbcca2ea6763e922": {
+    "date": "2026-05-07",
+    "snippet": "We are now offering high commissions for recommended talent!\n\nHere\u2019s a snapshot of where we\u2019re actively involved right n",
+    "comment": "SKIP"
+  },
+  "e1d97ae7ba9c84f571f34a2f18f53c82": {
+    "date": "2026-05-07",
+    "snippet": "Mumbai. Pune. Vidharbha.\nWe\u2019re officially expanding.\n\nThe tech at Bartr is ready.\nNow we\u2019re building the people layer.\n\n",
+    "comment": "SKIP"
+  },
+  "907d50f887e026bd10a97e46ac97c941": {
+    "date": "2026-05-07",
+    "snippet": "\ud835\uddd8\ud835\uddfb\ud835\uddf3\ud835\uddfc\ud835\uddff\ud835\uddf0\ud835\uddf2\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddd7\ud835\uddf6\ud835\uddff\ud835\uddf2\ud835\uddf0\ud835\ude01\ud835\uddfc\ud835\uddff\ud835\uddee\ud835\ude01\ud835\uddf2: \"\ud835\udde5\ud835\uddf2\ud835\uddfb\ud835\uddf2\ud835\ude04\ud835\uddf2\ud835\uddf1 \ud835\uddd9\ud835\uddfc\ud835\uddf0\ud835\ude02\ud835\ude00 \ud835\uddfc\ud835\uddfb \ud835\uddd9\ud835\uddd8\ud835\udde0\ud835\uddd4 \ud835\uddd7\ud835\uddf2\ud835\uddf3\ud835\uddee\ud835\ude02\ud835\uddf9\ud835\ude01\ud835\ude00\"\n\nOn 1 May 2026, ED released its Annual Report for 2025-26 (ext",
+    "comment": "SKIP"
+  },
+  "cc498f13287ff9ec1e81b77741ec8112": {
+    "date": "2026-05-07",
+    "snippet": "India should seriously consider reviving Infrastructure Bonds in a big way \u2014 backed by a modern incentive architecture t",
+    "comment": "The framing of crypto as \"high-risk yield chasing behaviour\" alongside fraudulent schemes deserves pushback , on-chain yield mechanisms are structurally transparent in ways that most traditional debt instruments are not. The deeper problem with infrastructure bonds isn't concept, it's execution history: India's past iterations struggled with illiquidity, credit opacity, and tax structures that made them genuinely unattractive versus market alternatives. Fixing that requires more than revival , it requires a fundamental redesign of how these instruments are structured, traded, and rated.",
+    "url": "https://www.linkedin.com/in/anil-katia-58366160/",
+    "age_h": 0.23333333333333334
+  },
+  "49cf99c51ca54faaaa78ce5a315e95b1": {
+    "date": "2026-05-07",
+    "snippet": "Hiring | KYC Analyst \u2013 Transaction Monitoring (US Market) | Hyderabad\n\n\ud83c\udfe2 FutureSoft India\n\nExcellent opportunity in KYC,",
+    "comment": "SKIP"
+  },
+  "ddec5261457c851d23065fbfe7251b1f": {
+    "date": "2026-05-07",
+    "snippet": "BitDelta just launched an office in India. And everyone is asking the exact same question. Does this mean crypto is fina",
+    "comment": "The 30% flat tax with zero loss offset allowance is the real signal most retail investors are missing , that's not a neutral regulatory stance, that's a punitive structure designed to discourage active participation while keeping the sovereign revenue tap open. The FIU-IND registration framework gives the government complete visibility into every major platform's order flow, which means the liquidity chokehold you're describing doesn't even require a formal ban to execute. India has already demonstrated with the 2022 tax regime that it can functionally suppress volumes without ever criminalizing the asset , daily volumes on Indian exchanges dropped over 70% within weeks of that policy landing.",
+    "url": "https://www.linkedin.com/in/lakshay-gulati/",
+    "age_h": 1
+  },
+  "629755868f7a20358ae229f9197372ce": {
+    "date": "2026-05-07",
+    "snippet": "Freehold Asayel Avenue in Mirdif Hills\n Pay only 0.5% Monthly Plus 2 Year Post Plan \n\n\nDubai Investment Developer are pr",
+    "comment": "SKIP"
+  },
+  "d88887e99125e011b09be153b702b5b4": {
+    "date": "2026-05-07",
+    "snippet": "Not every day you get to sit on a panel about a case you actually worked!\n\nToday I joined Andrew F. (U.S. Secret Service",
+    "comment": "The New Delhi syndicate routing fraud proceeds through Bitcoin ATMs is a textbook example of how crypto infrastructure gets weaponized when cross-border coordination lags. What's underappreciated in these cases is that the blockchain itself provided the forensic trail , the 35 simultaneous raids didn't happen despite the Bitcoin usage, they happened partly because of it. The real bottleneck was never the data, it was the institutional trust required to act on it at speed across jurisdictions.",
+    "url": "https://www.linkedin.com/in/andrew-f-129b17232/",
+    "age_h": 5
+  },
+  "e7b52a568e1430e8ba4a8fbf61377bdb": {
+    "date": "2026-05-07",
+    "snippet": "#trading #forex #investing #bitcoin #trader money stockmarket crypto cryptocurrency investment forextrader stocks forext",
+    "comment": "SKIP"
+  },
+  "8b7ce2d8d6ec8b2a1b830e83accbd927": {
+    "date": "2026-05-07",
+    "snippet": "We\u2019re currently supporting a number of teams across iGaming & Web3, each at very different stages, but all with one thin",
+    "comment": "SKIP"
+  },
+  "199ed60426abdef427d0d3c95afa05f3": {
+    "date": "2026-05-07",
+    "snippet": "\ud83d\ude80 The Reliable Jobs \ud835\udc22\ud835\udc2c \ud835\udc07\ud835\udc22\ud835\udc2b\ud835\udc22\ud835\udc27\ud835\udc20 | \ud835\udc05\ud835\udc2e\ud835\udc25\ud835\udc25 \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc1c\ud835\udc24 \ud835\udc04\ud835\udc27\ud835\udc20\ud835\udc22\ud835\udc27\ud835\udc1e\ud835\udc1e\ud835\udc2b\n\ud83d\udcbc \ud835\udc11\ud835\udc28\ud835\udc25\ud835\udc1e: Full Stack Engineer\n\ud83d\udccd \ud835\udc0b\ud835\udc28\ud835\udc1c\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27: Magarpatta City, Pune, Mahar",
+    "comment": "SKIP"
+  },
+  "b97c86da2361c5017143952078bdbf1d": {
+    "date": "2026-05-07",
+    "snippet": "I lost everything because of a phone number.\nNot to a hacker. Not to a scam.\n\nTo a system that was never designed to pro",
+    "comment": "Phone number recycling is one of the most underappreciated attack vectors in crypto security , and the fact that carriers in Nigeria, the UK, and the US all operate the same way tells you this is systemic, not accidental. The real failure here isn't the stranger who got the number, it's that Bybit, Binance, and every other exchange still treats SMS-based 2FA as acceptable security when SIM swap and recycling exploits are well-documented. Decentralized identity is the structural fix , not better carrier policies.",
+    "url": "https://www.linkedin.com/in/joseph-henshaw-72a170405/",
+    "age_h": 11
+  },
+  "202e5254d7ea64de98ca2a57a42e675e": {
+    "date": "2026-05-07",
+    "snippet": "\ud83d\udd0dIf you\u2019re an investor, this is something you may want to know.\n\nThis article by Samiirah Bahemia provides strategic ins",
+    "comment": "The Tiger Global decision is more significant than it appears on the surface , confirming grandfathering protection for pre-2017 structures removes a major source of ambiguity that had been quietly influencing how cross-border capital into India was being structured. The real pressure point now is the substance requirement, and \"effective management and control from Mauritius\" is a standard that many holding structures have treated as a paperwork exercise rather than an operational reality. Regulators are no longer accepting that gap.",
+    "url": "https://www.linkedin.com/company/dtosgroup/posts/",
+    "age_h": 15
+  },
+  "9b3c0795f0c1f59b7a1f745f7db42b04": {
+    "date": "2026-05-07",
+    "snippet": "\ud83d\udea8 RESULT ALERT | DIVIDEND ALERT | STOCK UPDATE \ud83d\udea8\nStrong Q4 earnings, major order wins, strategic expansions & dividend a",
+    "comment": "SKIP"
+  },
+  "45dc309509237561deec85b608e1762c": {
+    "date": "2026-05-07",
+    "snippet": "A global investor once asked me:\n\n\u201cWhy is everyone suddenly talking about India for business expansion?\u201d\nI smiled and sa",
+    "comment": "GIFT City's 20-year tax holiday followed by a 15% concessional rate is the detail most people gloss over , but for crypto and fintech firms looking at Asia entry points, that structure is genuinely competitive with Singapore and Dubai. India's regulatory posture on financial services has shifted from restrictive to selectively aggressive, and GIFT City is where that ambition is most visible. The question isn't whether India is serious about becoming a global financial hub , it's whether the on-ground execution speed matches the policy ambition.",
+    "url": "https://www.linkedin.com/in/parag-ashar-26744a20/",
+    "age_h": 0.03333333333333333
+  },
+  "63e5b1c5de790d724560082e2a4368ec": {
+    "date": "2026-05-07",
+    "snippet": "\u2694\ufe0f \u201cSir, maine ye transaction nahi kiya\u2026 refund chahiye.\u201d\n\nBut the merchant said:\n\n\ud83d\udc49 \u201cOrder deliver ho chuka hai.\u201d\n\nNow ",
+    "comment": "SKIP"
+  },
+  "0b2e8f3c47dca6b414a92fb92de237a0": {
+    "date": "2026-05-07",
+    "snippet": "Best App Development Company in India \u2013 AI-Powered Home Appliance Service App\nhttps://lnkd.in/gC3HMmaK\nLooking to launch",
+    "comment": "SKIP"
+  },
+  "0a3bd5cdcfb0514e08003a3aaeb6d9b7": {
+    "date": "2026-05-07",
+    "snippet": "\ud83d\ude80 We\u2019re Not Hiring for a Job. We\u2019re Hiring for Impact.\n\n#Hiring at Wadzpay (https://www.wadzpay.com/)\n\nPosition: Prepaid",
+    "comment": "SKIP"
+  },
+  "afa7d553b0b5ac580def3809505eedee": {
+    "date": "2026-05-07",
+    "snippet": "\ud83c\uddee\ud83c\uddf3 We are building and investing in India, and grateful for the opportunity to work with the Government to do more.\n\nThi",
+    "comment": "SKIP"
+  },
+  "e63a959e3f93f73714080858960d2ad9": {
+    "date": "2026-05-07",
+    "snippet": "Hi Connections\nHope you are doing good,\nWe are hiring for experienced Influence Marketing Manager for one of our leading",
+    "comment": "SKIP"
+  },
+  "6505e2130d4c79ef7b5f8c279fd70aac": {
+    "date": "2026-05-07",
+    "snippet": "\ud83d\udca5 The future of AI and DeepTech innovation is being built in India.\nHackIndia AI & DeepTech Hackathon 2026 is coming to ",
+    "comment": "SKIP"
+  },
+  "b2fcda2eeea8950c2b71fc36b8a8ff89": {
+    "date": "2026-05-07",
+    "snippet": "We recently had the privilege of hosting delegates from Zanzibar at our office in Chennai.\u00a0\n\u00a0\nDuring their visit, we sho",
+    "comment": "SKIP"
+  },
+  "b7f327c360978d3d6ade32e80b17d4ae": {
+    "date": "2026-05-07",
+    "snippet": "The world isn't ending. It's re-routing.\n\nMay 2026, in case you blinked:\n\n\u2192 Strait of Hormuz half-blocked. Brent crude a",
+    "comment": "India's non-aligned positioning is chronically underrated as a structural crypto advantage , not just geopolitically, but in terms of regulatory optionality. When the US and EU are competing to set the rules for digital assets, and India can negotiate terms with both without owing either side a default allegiance, that's exactly the kind of leverage that could let Indian regulators write frameworks that actually work for emerging market capital flows rather than simply importing Western compliance architecture wholesale.",
+    "url": "https://www.linkedin.com/in/ramniwas-gurjar-here/",
+    "age_h": 15
+  },
+  "f4b3df50f6da729f032039937c5debd1": {
+    "date": "2026-05-07",
+    "snippet": "It's the new way the world will turn - #tokenization of #RWA . How are you leveraging these new #blockchain strategies f",
+    "comment": "SKIP"
+  },
+  "04edb0f1eb2ae64dbe9dd453bd219d90": {
+    "date": "2026-05-07",
+    "snippet": "Dubai showed up on May 1 for RWA tokenization.\nRegulators, founders, and capital allocators in one room, having the conv",
+    "comment": "Dubai bringing regulators, founders, and capital allocators into the same room for RWA is exactly the structural signal the space needs , not another protocol announcement, but jurisdictional alignment. The fact that dYdX Foundation is showing up as a partner here says something about where DeFi infrastructure sees its future: not separate from institutional capital, but embedded in it. That convergence is what turns tokenization from a narrative into a market.",
+    "url": "https://www.linkedin.com/in/ivanvalerevich/",
+    "age_h": 0.5666666666666667
+  },
+  "354be4c76c3ae8c32281202e6e08e023": {
+    "date": "2026-05-07",
+    "snippet": "\ud83c\udf99\ufe0f Thrilled to welcome Jeffrey Tchui, Executive Director & Head of APAC at Hashgraph to SEABW 2026!\n\n20+ years leading d",
+    "comment": "The framing around \"redefining the institutional fixed income stack\" is where the real stakes are. Private credit tokenization isn't just a yield play , it's an attempt to bring transparency and liquidity to a $1.5 trillion market that has historically been opaque, illiquid, and accessible only to the largest allocators. On-chain yield changing how institutions think about duration and counterparty risk is a structural shift, not a product feature.",
+    "url": "https://www.linkedin.com/company/seabw/posts/",
+    "age_h": 1
+  },
+  "dea50e9beb2b8e43a4133eed7b90c09e": {
+    "date": "2026-05-07",
+    "snippet": "#blockchain #crypto\n\n\uad6d\uac00\uac00 \uac00\uc0c1\uc790\uc0b0 \uc0b0\uc5c5\uc744 \ud0a4\uc6cc\uc57c \ud558\ub294 \uc774\uc720\ub294 \ub2e8\uc21c\ud788 \u201c\ucf54\uc778 \uac00\uaca9\u201d \ub54c\ubb38\uc774 \uc544\ub2d9\ub2c8\ub2e4.\n\n\ud575\uc2ec\uc740 \uc2dc\uac04 \uc808\uc57d\uacfc \uc0ac\uc5c5 \ucc3d\ucd9c\uc785\ub2c8\ub2e4.\n\n\uac00\uc0c1\uc790\uc0b0\uacfc \ube14\ub85d\uccb4\uc778 \uc778\ud504\ub77c\ub294 \uc1a1\uae08, \uacb0\uc81c, \uc815\uc0b0, \uc18c\uc720",
+    "comment": "SKIP"
+  },
+  "43180f00cd953c90552941b73245fbda": {
+    "date": "2026-05-07",
+    "snippet": "[BSFX STO Daily Briefing] May 7, 2026\n\n\ud83c\udf0d Global / Infrastructure M&A & Post-Trade Standards\n- Major M&A Event: Bullish a",
+    "comment": "The Bullish-Equiniti $4.2B acquisition is the clearest signal yet that the real STO bottleneck was never token issuance , it was the back-end plumbing: shareholder registries, identity verification, and post-trade settlement. Folding 3,000+ issuers and 20 million shareholder records into an on-chain liquidity layer isn't a product move, it's an infrastructure claim. ERC-3643 gaining traction across global hubs at the same moment this deal closes suggests the compliance layer and the protocol layer are finally converging on the same timeline.",
+    "url": "https://www.linkedin.com/in/brandensjpark/",
+    "age_h": 3
+  },
+  "ba32bf0826b95809901baf873a15c09c": {
+    "date": "2026-05-07",
+    "snippet": "Most people still talk about tokenization like it\u2019s the product.\n\nIt\u2019s not.\n\nThe real shift is happening one layer deepe",
+    "comment": "The JPMorgan-Mastercard-Ripple-Ondo workflow is the detail that deserves the most attention here , because it's not four companies doing interesting things separately, it's four distinct layers of financial infrastructure operating as a single orchestrated flow. That's the proof-of-concept the institutional market has been waiting for. Taurus securing MiFID II coverage completes the picture , custody under a recognized regulatory framework means tokenized assets can now sit on institutional balance sheets without a compliance asterisk next to them.",
+    "url": "https://www.linkedin.com/in/mackenziespencer/",
+    "age_h": 5
+  },
+  "2e7921bcd6d892b62c04e938c2509a6c": {
+    "date": "2026-05-07",
+    "snippet": "\ud83d\udea8 #Hiring #Associate #System #Engineer (#Fresher) \ud83d\udea8\n\n\ud83d\udc68\u200d\ud83d\udcbb Hiring Alert: IBM is #Hiring #Freshers!\n\n\ud83d\udccd Location: Mysore, Ah",
+    "comment": "SKIP"
+  },
+  "db29b953d7e9ff47a043464539bce0c7": {
+    "date": "2026-05-07",
+    "snippet": "Day 5 at HackQuest India Co-Learning Camp #20 be like \ud83d\ude02\ud83d\udd25\n\u201cSpend 3 hours fixing one error\u2026\nFinally works\u2026\nFeel like a blo",
+    "comment": "SKIP"
+  },
+  "f284ac6e4b98ba40caf580ec68cde2bf": {
+    "date": "2026-05-07",
+    "snippet": "Do CBDCs Give Too Much Power to Central banks & Governments?\n\nThe global conversation around Central Bank Digital Curren",
+    "comment": "Programmable money isn't just an efficiency upgrade , it's a fundamental restructuring of monetary sovereignty at the individual level. The detail that matters most here isn't real-time settlement or fraud reduction; it's that programmable CBDCs allow governments to attach conditions to money itself , expiry dates, spending restrictions, behavioral triggers. That's a power no central bank has ever held before, and the privacy vs transparency framing undersells just how asymmetric that control actually is.",
+    "url": "https://www.linkedin.com/in/prashantsuranajain/",
+    "age_h": 0.35
+  },
+  "16c7a440a2d29033141fdc7c720d9d65": {
+    "date": "2026-05-07",
+    "snippet": "Day 5 of HackQuest India Co-Learning Camp #20 \ud83d\ude80\nToday\u2019s learning experience was really interesting. I explored more abou",
+    "comment": "SKIP"
+  },
+  "38d1a98a466e9671460686be71318345": {
+    "date": "2026-05-07",
+    "snippet": "We\u2019re Hiring: Influencer Marketing Manager  \n\ud83d\udccd Location: Gurgaon (Onsite | Mon\u2013Fri)  \n\nWe\u2019re looking for a performance-d",
+    "comment": "SKIP"
+  },
+  "fb611b7847ff62a8a9338a9e1b8b34de": {
+    "date": "2026-05-07",
+    "snippet": "Asia\u2019s payment infrastructure is becoming one of the most complex \u2014 and most underestimated \u2014 battlegrounds in global fi",
+    "comment": "The fragmentation point is real, but the deeper problem is that most cross-border payment infrastructure was built for stable, low-frequency flows , not the high-velocity, high-stakes corridors that iGaming, FX, and crypto actually generate. UPI alone processes over 10 billion transactions a month, and that's just one node in a region where every corridor has its own liquidity logic, compliance clock, and failure mode. The question of whether routing survives peak pressure isn't a technical edge case , it's the entire business model.",
+    "url": "https://www.linkedin.com/in/steve-594095193/",
+    "age_h": 0.11666666666666667
+  },
+  "e72b5c0d6ec0712207fa8149887c6343": {
+    "date": "2026-05-07",
+    "snippet": "\ud83d\udea8 The biggest story in finance right now isn\u2019t Bitcoin.\n\nIt\u2019s the quiet institutional acceptance of tokenized securities",
+    "comment": "The regulatory framing here is the real unlock , \"same legal rights, same cash flows, same economic exposure\" means tokenized securities are no longer being penalized just for existing on-chain. That directly dismantles the Basel capital surcharge logic that kept institutional balance sheets away from tokenized assets. The T+2 settlement problem alone costs the industry billions annually in counterparty exposure , real-time finality isn't a feature, it's a risk management revolution.",
+    "url": "https://www.linkedin.com/in/utsavdar/",
+    "age_h": 0.8
+  },
+  "b64761355feaab55342e8c52c9a28a0a": {
+    "date": "2026-05-07",
+    "snippet": "\u201cRegulation Isn\u2019t Killing Crypto It\u2019s the On\u2011ramp for Traders Like You\u201d\n\nMost traders still see regulation as a threat.\n",
+    "comment": "The framing here is directionally right, but the mechanism matters more than the narrative. MiCA isn't just creating clarity , it's creating compliance costs that will systematically price out smaller market makers, concentrating liquidity in fewer hands and narrowing the very volatility bands that discretionary traders have historically exploited. India's crypto-tax regime is a sharper example: the 1% TDS and 30% flat tax didn't bring institutions in, it crushed retail volume and pushed activity offshore. Regulation as catalyst is real, but only when the design incentivizes participation rather than penalizing it.",
+    "url": "https://www.linkedin.com/in/oshin-tiwari-b34a515b/",
+    "age_h": 0.6833333333333333
+  },
+  "13ba666247bdb6c5e0c085aaf726cc73": {
+    "date": "2026-05-07",
+    "snippet": "\ud835\udc16\ud835\udc21\ud835\udc1a\ud835\udc2d \ud835\udc22\ud835\udc1f \ud835\udc32\ud835\udc28\ud835\udc2e\ud835\udc2b \ud835\udc25\ud835\udc28\ud835\udc1a\ud835\udc27 \ud835\udc1a\ud835\udc29\ud835\udc29\ud835\udc2b\ud835\udc28\ud835\udc2f\ud835\udc1a\ud835\udc25 \ud835\udc1d\ud835\udc1e\ud835\udc29\ud835\udc1e\ud835\udc27\ud835\udc1d\ud835\udc2c \ud835\udc28\ud835\udc27 \ud835\udc26\ud835\udc28\ud835\udc2b\ud835\udc1e \ud835\udc2d\ud835\udc21\ud835\udc1a\ud835\udc27 \ud835\udc23\ud835\udc2e\ud835\udc2c\ud835\udc2d \ud835\udc32\ud835\udc28\ud835\udc2e\ud835\udc2b \ud835\udc1c\ud835\udc2b\ud835\udc1e\ud835\udc1d\ud835\udc22\ud835\udc2d \ud835\udc2c\ud835\udc1c\ud835\udc28\ud835\udc2b\ud835\udc1e? \n\nThe lending industry is evolving rapidly, and ",
+    "comment": "SKIP"
+  },
+  "0b09fcb69853aa2e8521fc33c29048cb": {
+    "date": "2026-05-07",
+    "snippet": "\ud83d\udea8 Imagine this:\nYour father is admitted to a hospital.\nYou have money in the bank.\nBut you still cannot pay.\nNot because",
+    "comment": "SKIP"
+  },
+  "339e173bfaf14c3f2feca2e2afcceb62": {
+    "date": "2026-05-07",
+    "snippet": "\ud83c\uddf8\ud83c\udde6\ud83d\udcb0 Saudi venture capital firm Khwarizmi Ventures has launched Fund II after completing a first close exceeding $70M (SA",
+    "comment": "SKIP"
+  },
+  "3f785523a7c25eb219a989b8275ef908": {
+    "date": "2026-05-07",
+    "snippet": "Sensing demand from space is easy. Selling it to a Kirana owner is the real challenge. \ud83d\uded2\ud83d\udcc9\n\nIndia has 13 million independ",
+    "comment": "SKIP"
+  },
+  "77299d656cdc2e8022c84ca4a760182f": {
+    "date": "2026-05-07",
+    "snippet": "The Future of Wealth Management in India Will Be Tokenized\n\nIndia is rapidly moving toward a new financial architecture ",
+    "comment": "The IFSCA-GIFT City sandbox angle is the most underappreciated piece of this architecture , it's the regulatory escape valve that lets India experiment with tokenized securities without waiting for SEBI and RBI to reach full consensus. The multi-regulator framework isn't a bug, it's actually what gives India structural flexibility that single-regulator jurisdictions like the EU don't have under MiCA. The real bottleneck will be the custody layer , institutional-grade digital custody in India is still embryonic, and without it, the asset origination and tokenization layers above it can't scale regardless of how elegant the smart contract architecture is.",
+    "url": "https://www.linkedin.com/in/garima-singh-03907229/",
+    "age_h": 1
+  },
+  "06f152322411c929bb6dca3fabe8159e": {
+    "date": "2026-05-07",
+    "snippet": "Manoj Kohli, ex-country head of #SoftBank India, joins Alt DRX Advisory Board\n\nReal World Asset Tokenisation has become ",
+    "comment": "Adding Manoj Kohli and GN Bajpai , ex-SEBI Chairman , to an RWA advisory board isn't a cosmetic move, it's a direct signal to regulators in India and the Gulf that Alt DRX is building for compliance-first institutional adoption, not speculative retail. The India-Qatar corridor is underestimated as an RWA distribution channel, given the scale of Indian diaspora capital sitting in GCC jurisdictions looking for regulated, yield-bearing alternatives. The 2030 regional superpower target only holds if the governance infrastructure keeps pace with the tokenization roadmap , and this board composition suggests they understand that sequencing.",
+    "url": "https://www.linkedin.com/in/manoj-kohli-34948b108/",
+    "age_h": 1
+  },
+  "da524dc12cae0f0c781c1205995cd368": {
+    "date": "2026-05-07",
+    "snippet": "\ud83c\uddee\ud83c\uddf3\ud83d\udcb8 India\u2019s Digital Finance Revolution is taking shape!\n\nHere\u2019s the big picture \ud83d\udc47\n\n\ud83d\udd39 Digital Rupee (e\u20b9) is growing fast ",
+    "comment": "The BRICS CBDC bridge ambition is the most underreported part of India's digital currency strategy , reducing dollar dependency in cross-border settlements is a geopolitical move as much as a financial one. But the tension worth watching is this: India is simultaneously building programmable state money while taxing private crypto at 30%, which signals the government understands blockchain's power and wants a monopoly on it. That's not cautious regulation , that's strategic displacement.",
+    "url": "https://www.linkedin.com/in/sneha-bose-marketing-in-kolkata/",
+    "age_h": 1
+  },
+  "46eb57befc5145dadaeff82c659a25dc": {
+    "date": "2026-05-07",
+    "snippet": "Centrifuge just put the S&P 500 onchain on Base. The first index fund officially licensed by S&P Dow Jones Indices.\n\nMos",
+    "comment": "Centrifuge choosing indices over individual equities isn't just a smart wedge , it's the only wedge that makes structural sense for DeFi collateral. The point about S&P DJI licensing unlocking 500 names in one move is underappreciated; the compliance surface compression alone could be the difference between RWA tokenization scaling in years versus decades. What's really happening here is that Base becomes the settlement layer for an asset class that already has deep institutional trust baked in , that's a very different proposition than asking DeFi to bootstrap liquidity from scratch.",
+    "url": "https://www.linkedin.com/in/nigsdev/",
+    "age_h": 0.21666666666666667
+  },
+  "3fb50836855f7f5948e8e2f3617dc25f": {
+    "date": "2026-05-07",
+    "snippet": "Dubai continues to prove why it is becoming the global hub for Real-World Asset tokenization and institutional blockchai",
+    "comment": "Dubai's regulatory clarity advantage is real , VARA's framework is one of the few in the world that gives institutional participants actual legal certainty around virtual asset custody, issuance, and trading, rather than enforcement-by-example. That combination of DMCC's commodity infrastructure and VARA's forward-designed rulebook is structurally different from how most financial centers have approached this. The jurisdictions that define the rules early don't just attract capital , they become the settlement layer for everything that follows.",
+    "url": "https://www.linkedin.com/company/rwalabs-ae/posts/",
+    "age_h": 0.65
+  },
+  "157be4cc5d104741243c2a2c4f3f297d": {
+    "date": "2026-05-07",
+    "snippet": "Look at this room.\n\nThis is a\u00a0room full of the most serious people in RWA tokenization doing what they do best.\n\nRegulat",
+    "comment": "Dubai concentrating VARA, DMCC, and capital allocators like RockawayX and NewTribe Capital in one room isn't coincidence , it's the UAE deliberately positioning itself as the jurisdiction where RWA frameworks get written in practice, not just on paper. When regulators and founders are solving problems in the same conversation rather than across a compliance table, that's where real market structure gets built. The rest of the world is still debating whether to regulate; Dubai is already iterating.",
+    "url": "https://www.linkedin.com/company/rwalabs-ae/posts/",
+    "age_h": 18
+  },
+  "8fba706e3d73e0b81d985404cbbbad5e": {
+    "date": "2026-05-07",
+    "snippet": "Chris, your post proves precisely the opposite of what you intend.\n\nRead the NYSE filing itself, not the headline. Here ",
+    "comment": "The NYSE explicitly filing that \"existing regulatory structure mandated by Congress applies\" is the most important sentence in this entire debate , and it's being almost universally ignored. This isn't disintermediation of DTCC or a new financial paradigm; it's the incumbent infrastructure wrapping blockchain around the same legal, clearing, and settlement architecture that governs conventional equities. The decimalization comparison the Exchange itself makes is actually apt , decimalization changed tick sizes, not market structure, and that's precisely the scale of change we're talking about here.",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7457081463931305984/",
+    "age_h": 0.4
+  },
+  "0470279f528d0032f400d4ec95381273": {
+    "date": "2026-05-07",
+    "snippet": "@Fireblocks just added native USDC support for real-world asset tokenization. This connects 3 dots most builders are mis",
+    "comment": "The fiat conversion bottleneck is the underappreciated killer of previous tokenization cycles , most projects failed not because the asset logic was wrong, but because settlement hit a wall the moment it touched traditional banking rails. Native USDC custody through an institutional-grade infrastructure layer removes that friction at exactly the right moment, as RWA volumes are scaling past the point where manual settlement is defensible. The programmable escrow angle for cross-border M&A is where this gets genuinely interesting , those transactions have layers of conditional logic that smart contracts can handle more precisely than any law firm escrow arrangement ever could.",
+    "url": "https://www.linkedin.com/in/fayssal-m/",
+    "age_h": 0.6
+  },
+  "de0e70706c3a2dc1c73ab81cb723ad7d": {
+    "date": "2026-05-07",
+    "snippet": "\ud83d\udea8 The financial world is quietly entering one of the biggest infrastructure transitions in modern history.\n\ud83c\udf10 What many o",
+    "comment": "The Visa multi-chain settlement expansion is the data point most people are sleeping on , when a 70-year-old payment network starts routing stablecoin settlement across chains at billion-dollar annualized volume, that's not a pilot anymore, that's a production decision. The institutions aren't debating blockchain's role in finance; they're competing to position themselves on the infrastructure layer before the architecture solidifies. Whoever controls settlement rails controls margin, data, and counterparty relationships , that's the real prize being contested here.",
+    "url": "https://www.linkedin.com/in/bobby-p-9079295a/",
+    "age_h": 0.6
+  },
+  "7e06d36d984f89d41f812a453ff6e728": {
+    "date": "2026-05-07",
+    "snippet": "Tokenization is starting to give shareholders a more direct path to their vote.\n\nI spent years working in banking on how",
+    "comment": "Broadridge extending voting infrastructure to Ondo Finance token holders is exactly the kind of unglamorous, structural development that gets underreported but carries enormous long-term weight. The proxy voting problem isn't just inefficiency , it's a systemic failure where beneficial owners routinely lose their governance rights somewhere in the custody chain before a vote is ever cast. Collapsing dozens of manual handoffs into a single verifiable on-chain record doesn't just cut costs, it closes an accountability gap that fund managers and regulators have quietly tolerated for decades.",
+    "url": "https://www.linkedin.com/in/simon-k-basler-1678054/",
+    "age_h": 0.6833333333333333
+  },
+  "aca7f41a79fb98b035ee59c384f2b38c": {
+    "date": "2026-05-07",
+    "snippet": "\ud83d\udfe1\ud83d\ude42 Bitcoin has reached the $80,000 psychological level, with altcoins rallying as risk appetite returns to markets. This",
+    "comment": "The $485 million K Wave Media pivot from Bitcoin to AI is the detail most analysts are glossing over , that's not a minor reallocation, that's a signal about how some institutional capital views Bitcoin's near-term risk-reward relative to AI infrastructure. The CLARITY Act tailwind is real, but sustained breakout above $80K requires ETF inflows to outpace that kind of institutional rotation, and right now those forces are pulling in opposite directions.",
+    "url": "https://www.linkedin.com/in/ayoubtorabi/",
+    "age_h": 1
+  },
+  "6b02a9c6f9b24046124bcfceb069dae0": {
+    "date": "2026-05-08",
+    "snippet": "When we first applied for the campus round, we never imagined we\u2019d end up featured on the official Hult Prize India! \n\nI",
+    "comment": "SKIP"
+  },
+  "e2da85e692bac94bed5c000f9ebe157a": {
+    "date": "2026-05-08",
+    "snippet": "Developing a scalable application and maintaining the entire tech stack is hard \ud83d\ude25\n\nAs a solo software engineer, I\u2019ve tak",
+    "comment": "SKIP"
+  },
+  "a283df9298bafa1cf48f6b8bda1d70a3": {
+    "date": "2026-05-08",
+    "snippet": "The \"Scale\" Friday: When AI meets 1.2 Million Employees and 100,000 Kilometers. \ud83c\udfd7\ufe0f\ud83d\udee4\ufe0f\ud83c\uddee\ud83c\uddf3\n\nIf you needed a final proof poin",
+    "comment": "The Aptos integration detail is the most underreported part of this story. A tamper-proof, offline-first identity layer at 1.2 million employee scale is the kind of real-world blockchain deployment that makes the \"blockchain needs a use case\" argument look increasingly dated , this is sovereign infrastructure, not a proof of concept. If the 90% fraud reduction and 30% payroll cost figures hold at full network scale, Indian Railways becomes one of the most consequential blockchain case studies in the world, period.",
+    "url": "https://www.linkedin.com/in/adarsh-dessai-331375385/",
+    "age_h": 1
+  },
+  "bc02dacd39c9cb6415235eaa330d0272": {
+    "date": "2026-05-08",
+    "snippet": "Hyundai Motor India Q4 Results: Profit FALLS 23% YoY to \u20b91,221 Cr \u2013 Revenue Up 5%, EBITDA Margin Shrinks to 10.4%; \u20b921 D",
+    "comment": "SKIP"
+  },
+  "6891b241ee9326e315947969086fd520": {
+    "date": "2026-05-08",
+    "snippet": "\ud83d\ude80 CoinSwitch Campaign is now LIVE for India \ud83c\uddee\ud83c\uddf3\nExcited to share a high-potential crypto & finance campaign for publisher",
+    "comment": "SKIP"
+  },
+  "b6fd21b43c2f0d6acdda4b98bd7fc205": {
+    "date": "2026-05-08",
+    "snippet": "\ud83c\uddee\ud83c\uddf3 INDIA TRADERS COMMUNITY TOUR\n\nNew to trading?\nAlready experienced?\nNo matter where you stand \u2014 this tour is for you.\n",
+    "comment": "SKIP"
+  },
+  "d6861789a35f8723e57fd48405a138c6": {
+    "date": "2026-05-08",
+    "snippet": "\ud83d\ude80 Looking for a Smart, Scalable & Cost-Effective Business Phone System ?\u00a0\n\u00a0\ud83d\udcde 04069867137 | \u00a0 \ud83d\udce7 kamal@voipoffice.com\nAt V",
+    "comment": "SKIP"
+  },
+  "553078e94c737ab773fde34de295c572": {
+    "date": "2026-05-08",
+    "snippet": "\ud83d\ude80 Cloud-Based VoIP Solutions for Seamless Global Communication\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\ud83d\udcde Contact: 914069867269 |\u00a0\ud83d\udce7aman@voipoffice.com\n\n\ud83d\udccd W",
+    "comment": "SKIP"
+  },
+  "78825ed451011beaa75fc6b21dc50be3": {
+    "date": "2026-05-08",
+    "snippet": "\ud835\udc12\ud835\udc2e\ud835\udc1c\ud835\udc1c\ud835\udc1e\ud835\udc2c\ud835\udc2c\ud835\udc1f\ud835\udc2e\ud835\udc25 \ud835\udc1c\ud835\udc28\ud835\udc26\ud835\udc29\ud835\udc25\ud835\udc1e\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc28\ud835\udc1f \ud835\udc2d\ud835\udc21\ud835\udc1e \ud835\udc02\ud835\udc1e\ud835\udc2b\ud835\udc2d\ud835\udc22\ud835\udc1f\ud835\udc22\ud835\udc1c\ud835\udc1a\ud835\udc2d\ud835\udc1e \ud835\udc02\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c\ud835\udc1e \ud835\udc28\ud835\udc27 \ud835\udc05\ud835\udc22\ud835\udc27\ud835\udc13\ud835\udc1e\ud835\udc1c\ud835\udc21 \ud835\udc11\ud835\udc1e\ud835\udc20\ud835\udc2e\ud835\udc25\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27\ud835\udc2c.\n\nAs India\u2019s FinTech ecosystem continues to evolv",
+    "comment": "SKIP"
+  },
+  "bc882176276d41ebb1ca5501d82cc222": {
+    "date": "2026-05-08",
+    "snippet": "Hello Connections,\nGood Day!!\n\n\ud83d\ude80 We are Hiring: Senior DevOps Engineer(Web3 + Cloud Infrastructure)\n\ud83d\udd58 Experience: 5+ Yea",
+    "comment": "SKIP"
+  },
+  "8d526e9a915ee56315f476bc62c20159": {
+    "date": "2026-05-08",
+    "snippet": "#Hiring | Compliance & Risk Manager\nCompany: WadzPay\nLocation: Pan India (Remote)\n\nJoin WadzPay \u2013 Shaping the Future of ",
+    "comment": "SKIP"
+  },
+  "43ccd5907014e3e847f4cc4a78a4e18f": {
+    "date": "2026-05-08",
+    "snippet": "Crypto adoption is a myth if you only look at market cap. Here's what's actually happening on the ground.\n\nThe prevailin",
+    "comment": "The 500% user growth number is meaningful , but growth in a crypto-native cohort and growth in genuinely non-crypto-native users are two completely different metrics, and the industry keeps conflating them. India's situation proves the point: intent is high, but regulatory ambiguity and wallet friction create a dropout curve that never shows up in the adoption headlines. The real benchmark isn't users acquired , it's users who completed a second transaction without hand-holding.",
+    "url": "https://www.linkedin.com/in/tushant-suneja/",
+    "age_h": 8
+  },
+  "6bcefbe02dfdacbac71d13715cd2f09b": {
+    "date": "2026-05-08",
+    "snippet": "TAPESTRY RAISED GUIDANCE FOR THE THIRD TIME THIS YEAR. $7.95 BILLION. SIX CONSECUTIVE QUARTERS OF GROWTH. ONE BAG IS DOI",
+    "comment": "SKIP"
+  },
+  "3c913e21a5c5a4905dcbca25436b49b5": {
+    "date": "2026-05-08",
+    "snippet": "Every global firm expanding to India asks the same 3 questions:\r\n\r\n1.\t*How do we scale without breaking delivery?*  \r\n  ",
+    "comment": "SKIP"
+  },
+  "c6419b53328459878fbb10b4dc646eab": {
+    "date": "2026-05-08",
+    "snippet": "India ,if you\u2019re building, investing, or operating here right now \u2014 you\u2019re standing in the middle of one of the most ext",
+    "comment": "What's missing from this framing is the specific opportunity that sits at the intersection of UPI's 10+ billion monthly transactions and the tokenization of India's legacy asset classes , real estate, agriculture, manufacturing , which remain largely inaccessible to retail capital. India's digital payment rails are already world-class; the next structural leap is programmable settlement and on-chain ownership of the physical economy that those Tier 2 and Tier 3 entrepreneurs are actually building in.",
+    "url": "https://www.linkedin.com/in/paresh-desai-587795111/",
+    "age_h": 0.05
+  },
+  "748a6d9ec0eb34b63a8be3ba071ce3b9": {
+    "date": "2026-05-08",
+    "snippet": "\u201cIdentity is no longer just a login. It is now evidence, liability, consent, access, and accountability.\u201d\n\nAt the ETCISO",
+    "comment": "SKIP"
+  },
+  "790aa557400f567b75728fb988b56f7c": {
+    "date": "2026-05-08",
+    "snippet": "Featured at Zee Business , This was my 2nd  one in this financial year\nWatchout  me on Weekly   Every Wednesday  , Where",
+    "comment": "The CLARITY Act and GENIUS Act together represent the most consequential regulatory moment for crypto since the SEC's Bitcoin ETF approval , and the India angle is underappreciated. If the US establishes clear jurisdictional boundaries between commodities and securities for digital assets, Indian regulators will face real pressure to accelerate their own framework rather than wait on the sidelines. Regulatory arbitrage only works until the dominant market sets the standard.",
+    "url": "https://www.linkedin.com/in/prasannalohar/",
+    "age_h": 5
+  },
+  "5932ec72f220900f5efd2f4f01727d6e": {
+    "date": "2026-05-08",
+    "snippet": "I'm really happy to share that I\u2019ve co-authored two chapters in the book AI, Cyber Law and Banking Regulation in India.\n",
+    "comment": "SKIP"
+  },
+  "90a225305b552ee55ade61259751a8da": {
+    "date": "2026-05-08",
+    "snippet": "Most Web3 startups don't get shut down by bad code.\nThey get shut down by bad legal structure.\n\nI've seen founders spend",
+    "comment": "The point about personal founder liability under AML/KYC failures is the one most builders underestimate , it's not a company-level fine, it's a criminal exposure that pierces the corporate veil entirely. India's FIU-IND registration requirement has been active since 2023, and the number of founders who still treat it as optional is staggering. \"Decentralised\" has never been a regulatory shield; the Howey Test and its equivalents look at economic reality, not architecture.",
+    "url": "https://www.linkedin.com/in/shivangi-das-a6051012a/",
+    "age_h": 3
+  },
+  "ddec69e85c9990bfe2b370763733fca8": {
+    "date": "2026-05-08",
+    "snippet": "The Directorate of Enforcement (ED) has recently issued its annual report for the FY 2025-26. Gone are the days when the",
+    "comment": "The Rs. 2051.27 crores in FEMA penalties this year is a direct signal to anyone moving crypto cross-border under the assumption that foreign exchange rules don't apply to digital assets , they do. The ED's information-sharing with the Income Tax Department creates exactly the kind of audit trail that makes undisclosed crypto holdings in foreign wallets or exchanges a serious legal exposure, not just a compliance oversight. Indian crypto participants treating FEMA as a passive background statute are operating on an assumption the data no longer supports.",
+    "url": "https://www.linkedin.com/in/chirayu-sodani-a2ab34246/",
+    "age_h": 4
+  },
+  "5be8ad6311b173e63372cb7e99939e62": {
+    "date": "2026-05-08",
+    "snippet": "I just discovered you can now buy gold on NSE like you buy a stock. Let me explain why this changes everything.\nMost Ind",
+    "comment": "The EGR framework solving the making charges problem is actually bigger than most realize , Indians lose 8-15% the moment they buy jewellery as \"investment,\" which means gold had to outperform just to break even. What SEBI has done here is create a tokenization-adjacent infrastructure where physical gold gets a digital twin, 1:1 backed, exchange-settled, and demat-held , that's the same architectural logic driving RWA tokenization globally, just applied to an asset class 1.4 billion people already trust. The real test now is whether redemption at scale holds up when volumes spike.",
+    "url": "https://www.linkedin.com/in/jay-kacha-115513172/",
+    "age_h": 5
+  },
+  "a8f559dbc8ba7d334f6695a1738fc1b1": {
+    "date": "2026-05-08",
+    "snippet": "\ud83d\udea8 We\u2019re Hiring | Influencer Marketing Manager \ud83d\udea8\n\nAre you passionate about influencer marketing, creator partnerships, an",
+    "comment": "SKIP"
+  },
+  "dd33c9a09d3b10cf4216322aee877be2": {
+    "date": "2026-05-08",
+    "snippet": "African Fintech News\n\nUnited Bank for Africa @UBAGroup (Nigeria), MTN MoMo PSB @momo_psb (Nigeria), and Redtech (Nigeria",
+    "comment": "SKIP"
+  },
+  "da82b1f4b1fdc38b3b3717bd661a36ac": {
+    "date": "2026-05-08",
+    "snippet": "\ud83c\udf0d Wherever your business is ... we're already there.\n\nIntroducing VCREATE tech Global bridging global industries with AI",
+    "comment": "SKIP"
+  },
+  "ffb6bcdd4f1a95b218b0d0ab08155a29": {
+    "date": "2026-05-08",
+    "snippet": "We are proud to recognize Lalit Vidhani CA,CPA-USA, a distinguished Group CFO and Board Advisor with over 25 years of gl",
+    "comment": "SKIP"
+  },
+  "938b51ffa80dc8dcfe4be80f7b6fe772": {
+    "date": "2026-05-08",
+    "snippet": "Really insightful post on how different countries are approaching RWA tokenization.\n\nWhat\u2019s interesting is that we\u2019re no",
+    "comment": "The regulatory arbitrage playing out across jurisdictions right now is the actual story , countries that move first on clear RWA frameworks aren't just enabling local innovation, they're positioning to capture global capital flows that have no loyalty to geography. The gap between regions with coherent tokenization policy and those still debating definitions will compound quickly once institutional volume starts routing toward compliant infrastructure.",
+    "url": "https://www.linkedin.com/company/coinsclone-techspace/posts/",
+    "age_h": 0.4666666666666667
+  },
+  "7f5ed76c2cbbc178081ba514f2e231ed": {
+    "date": "2026-05-08",
+    "snippet": "One of the largest pieces of traditional financial infrastructure is now testing tokenized securities rails.\n\nDepository",
+    "comment": "DTCC processing $20T daily is the number that reframes this entire conversation , this isn't a fintech experiment at the margins, it's the core plumbing of U.S. capital markets running a live test. Frank La Salla flagging real-time dollar liquidity as blockchain's first major institutional use case is significant because it bypasses the speculation narrative entirely and anchors the value proposition in settlement efficiency. The netting efficiency concern is the one worth watching closely , that's where traditional infrastructure has a structural advantage that tokenized rails haven't fully solved yet.",
+    "url": "https://www.linkedin.com/in/nastya-adamova/",
+    "age_h": 0.65
+  },
+  "7b1635955d2ac0d0c744761ba286ef5b": {
+    "date": "2026-05-08",
+    "snippet": "The CLARITY Act stops being a question of if this week.\n\nI have lived inside three regulatory cycles where the bill sat ",
+    "comment": "The Tillis-Alsobrooks yield compromise is the structural detail most people are glossing over , banning passive yield while permitting activity-based rewards isn't a minor distinction, it's a fundamental design constraint that will shape which stablecoin models survive regulatory clarity and which get quietly killed by it. Circle and Ripple moving on that news signals they've already war-gamed the compliance architecture. The July 4 target is aggressive, but the four-working-week window the Senate actually has is what makes this real , legislative calendars don't lie the way political statements do.",
+    "url": "https://www.linkedin.com/in/robfrasca/",
+    "age_h": 0.6833333333333333
+  },
+  "fc68b8a58f4de56d30c2cd226c836b7e": {
+    "date": "2026-05-08",
+    "snippet": "#OpenDigest | 8 May 2026\n\nEach week, we bring you the biggest headlines, sharpest insights, and key updates on stablecoi",
+    "comment": "The DTCC bringing blockchain to $114 trillion in custodied assets isn't a headline , it's a structural inflection point for global finance. But Pantera's finding that 77.6% of tokenized assets are still in the \"wrapper\" stage exposes the real tension: the institutional rails are being built while most of the assets sitting on them haven't meaningfully moved beyond basic representation. Scale without on-chain maturity is just repackaging, and the market will eventually price that difference.",
+    "url": "https://www.linkedin.com/company/openeden/posts/",
+    "age_h": 1
+  },
+  "745f6ed3b6ce2a16fc4aa5c719a11ff4": {
+    "date": "2026-05-08",
+    "snippet": "BNY expanding to Abu Dhabi. And here are some thoughts on it:\n\nClearly, the driver is regulatory arbitrage at the instit",
+    "comment": "BNY's $59.4 trillion in AUC choosing Abu Dhabi over New York or London isn't subtle , it's a direct indictment of how regulatory ambiguity exports capital and infrastructure to jurisdictions that made a deliberate choice to compete. ADGM's DLT Foundations Framework didn't happen by accident; it was a policy decision to treat digital assets as a sovereign competitive advantage, and BNY just validated that entire thesis. SAB 121 didn't just slow crypto custody in the US , it handed jurisdiction-level leverage to places that moved faster and cleaner.",
+    "url": "https://www.linkedin.com/in/simonweifenbach/",
+    "age_h": 0.016666666666666666
+  },
+  "e20c06c9c1bc134779d09260af1abd2c": {
+    "date": "2026-05-08",
+    "snippet": "Everyone's watching crypto right now. And they should be.\n\nIn the last 30 days, the industry shifted in ways that will m",
+    "comment": "Visa quietly processing $7 billion annually in stablecoin settlements across 9 blockchains is the most underreported signal in that entire list , because payment rails don't move unless the underlying settlement certainty is already there. The DTCC convening 50+ firms and the CLARITY Act moving simultaneously means the compliance architecture and the market infrastructure are finally converging at the same time, which is what was missing in every previous cycle. When the pipes are being built by the same institutions that operate the old pipes, this stops being disruption and starts being replacement.",
+    "url": "https://www.linkedin.com/in/wajidawan/",
+    "age_h": 0.016666666666666666
+  },
+  "0aea925f6ee16b3c7d364e516c4823ea": {
+    "date": "2026-05-08",
+    "snippet": "\u200bIn today's hyper-competitive and fast-paced business environment, logistical efficiency is no longer a luxury\u2014it's a cr",
+    "comment": "SKIP"
+  },
+  "dcadda827446cbc5af5f4a9d34385008": {
+    "date": "2026-05-08",
+    "snippet": "Snyk + Anthropic \n\nAI writes code fast; Snyk secures it! We\u2019ve embedded Anthropic\u2019s Claude into our platform to turn sec",
+    "comment": "SKIP"
+  },
+  "bf8e94f2f02882ef0e8201ee0b54091d": {
+    "date": "2026-05-08",
+    "snippet": "Two years ago, \"AI governance\" was a panel topic.\nToday, it's a procurement question.\n\nAnd in twelve months, it'll be th",
+    "comment": "SKIP"
+  },
+  "82dfc070ff1efc7c72e8192ea1e517ad": {
+    "date": "2026-05-08",
+    "snippet": "GLOBAL LOGISTICS TRENDS IN 2026\n\n\ud83d\udea2 Supply chains are no longer optimized only for cost.\n They are being rebuilt for resi",
+    "comment": "SKIP"
+  },
+  "75e07851462b25285af554f0775a5c7c": {
+    "date": "2026-05-08",
+    "snippet": "\u201cDetection was never the bottleneck.\u201d That is how J C. Jason Clinton , Anthropic\u2019s Deputy CISO, framed AI security in ou",
+    "comment": "SKIP"
+  },
+  "376ca71fcb3764dd2561e8a8bafdc42c": {
+    "date": "2026-05-08",
+    "snippet": "Today\u2019s Daily Brief with James Bowater founder & CEO of The Digital Commonwealth & Chairman of Roundtable Wednesdays\n\nTh",
+    "comment": "SKIP"
+  },
+  "7ec448e6b0f89e9bc54a5d98b3b8450e": {
+    "date": "2026-05-08",
+    "snippet": "We are proud to recognize Hesham Essam for his outstanding contributions to backend engineering, software architecture, ",
+    "comment": "SKIP"
+  },
+  "7601b5bd08f1a399406ddf85cc72608d": {
+    "date": "2026-05-08",
+    "snippet": "CBDCs vs Stablecoins: The Silent Financial Battle\n\nA major shift in global finance is happening quietly in the backgroun",
+    "comment": "The real tension here isn't CBDC versus stablecoin , it's sovereign programmability versus open programmability. China's digital yuan is explicitly designed with expiry dates and spending restrictions, which tells you everything about what \"control\" actually means in practice. Meanwhile, USDT and USDC combined already process more daily volume than many central bank payment systems, and they did it without a single government mandate. The side that wins won't be the one with the most institutional backing , it'll be the one that becomes invisible infrastructure first.",
+    "url": "https://www.linkedin.com/in/ashishdl/",
+    "age_h": 0.4166666666666667
+  },
+  "4502bc44d1cf9c4157719e632ab91346": {
+    "date": "2026-05-08",
+    "snippet": "The Next Crypto Bull Run May Be Driven by AI, Not People \ud83d\ude03\n\nFormer Apple engineer and AI Collective founder Chappy Asel ",
+    "comment": "Asel's framing at Consensus Miami is directionally right, but the bottleneck isn't the crypto infrastructure , it's agent autonomy and liability. Until there's a clear framework for who's responsible when an AI agent executes a bad transaction at scale, commercial adoption stays theoretical regardless of how programmable stablecoins are. The real unlock isn't technical, it's legal.",
+    "url": "https://www.linkedin.com/in/alex-kozenko-5b019a17/",
+    "age_h": 0.4166666666666667
   }
 }

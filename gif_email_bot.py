@@ -37,34 +37,36 @@ EMAIL_PASS = "qfwk aqqe ymes lgmy"
 SMTP_HOST  = "smtp.gmail.com"
 SMTP_PORT  = 587
 
-# Keywords for direct search — catches big players who don't use hashtags
-KEYWORDS = [
-    # ── Tier 1: RWA / Institutional (primary focus) ────────────────────────────
-    "tokenization of real world assets",
-    "RWA tokenization",
-    "institutional crypto",
-    "tokenized securities",
-    "on-chain assets",
-    # ── Tier 2: Markets / Macro ────────────────────────────────────────────────
-    "Bitcoin strategy",
+# India-focused keyword searches — catches people who don't use hashtags
+KEYWORD_SEARCHES = [
+    # ── India-first (highest priority) ────────────────────────────────────────
+    "blockchain India",
+    "web3 India",
+    "crypto India",
+    "bitcoin India",
+    "DeFi India",
+    "fintech India",
+    "tokenization India",
     "crypto regulation India",
-    "blockchain finance",
+    "Web3 startup India",
+    "blockchain finance India",
+    # ── Global RWA / Institutional ─────────────────────────────────────────────
+    "RWA tokenization",
+    "tokenized securities",
+    "institutional crypto",
+    "on-chain assets",
     "DeFi infrastructure",
-    "web3 investment",
 ]
 
-# Hashtag list — RWA/Tokenization/Institutional focus first, then top crypto
-HASHTAGS = [
-    # ── Tier 1: RWA / Tokenization (primary focus) ─────────────────────────────
-    "RWA", "Tokenization", "RealEstateTokenization", "DigitalAssets", "SmartContracts",
+# Hashtag searches — fallback after keywords exhaust quota
+HASHTAG_SEARCHES = [
+    # ── Tier 1: RWA / Tokenization ─────────────────────────────────────────────
+    "RWA", "Tokenization", "RealEstateTokenization", "DigitalAssets",
     # ── Tier 2: Institutional / Capital Markets ────────────────────────────────
     "CapitalMarkets", "InstitutionalInvesting", "FutureOfFinance", "Blockchain", "DeFi",
-    # ── Tier 3: Top crypto ─────────────────────────────────────────────────────
-    "bitcoin", "ethereum", "crypto", "cryptocurrency", "investing",
-    # ── Tier 4: Additional crypto / Web3 ──────────────────────────────────────
-    "web3", "defi", "cryptotrading", "altcoins", "tokenomics",
-    # ── Tier 5: Fallback ───────────────────────────────────────────────────────
-    "blockchain", "solana", "fintech", "NFT", "cryptoinvestment",
+    # ── Tier 3: Broad crypto ───────────────────────────────────────────────────
+    "cryptocurrency", "investing", "web3", "bitcoin", "ethereum",
+    "cryptotrading", "solana", "fintech", "tokenomics",
 ]
 
 # ── GIF Voice ─────────────────────────────────────────────────────────────────
@@ -236,10 +238,19 @@ def get_posts_from_page(page, max_age_hours: int) -> list:
                     if (postLink) postUrl = postLink.href.split('?')[0];
                 }}
 
-                // ── Author profile URL (used for deduplication) ──────────────
+                // ── Author profile URL & page-type detection ─────────────────
+                // Personal accounts use /in/, company/org pages use /company/
                 if (!profileUrl) {{
-                    const profileLink = el.querySelector('a[href*="/in/"]');
-                    if (profileLink) profileUrl = profileLink.href.split('?')[0];
+                    const personalLink = el.querySelector('a[href*="/in/"]');
+                    if (personalLink) {{
+                        profileUrl = personalLink.href.split('?')[0];
+                    }} else {{
+                        const companyLink = el.querySelector('a[href*="/company/"]');
+                        if (companyLink) {{
+                            profileUrl = companyLink.href.split('?')[0];
+                            isPage = true;
+                        }}
+                    }}
                 }}
 
                 // ── Timestamp ───────────────────────────────────────────────
@@ -285,6 +296,7 @@ def get_posts_from_page(page, max_age_hours: int) -> list:
                 url:        postUrl || profileUrl,
                 profileUrl: profileUrl,
                 ageHours:   ageHours,
+                isPage:     isPage,
             }});
         }}
 
@@ -400,11 +412,13 @@ def run():
     print(f"  Collecting {remaining} comments (max age: {MAX_AGE_HOURS}h)")
     print(f"{'='*55}\n")
 
-    # Tier 1+2 (RWA/Institutional) always browsed first; rest shuffled
-    fixed_tags    = HASHTAGS[:10]
-    rotating_tags = HASHTAGS[10:]
-    random.shuffle(rotating_tags)
-    hashtags_today = fixed_tags + rotating_tags
+    # India keywords first (top 10 fixed), then hashtags (top 9 fixed, rest shuffled)
+    rotating_hashtags = HASHTAG_SEARCHES[9:]
+    random.shuffle(rotating_hashtags)
+    searches_today = (
+        [{"q": k, "type": "keyword"} for k in KEYWORD_SEARCHES] +
+        [{"q": h, "type": "hashtag"} for h in HASHTAG_SEARCHES[:9] + rotating_hashtags]
+    )
 
     collected      = []
     seen_profiles  = set()  # dedup: one post per author per email batch
@@ -444,17 +458,26 @@ def run():
             return
 
         try:
-            for hashtag in hashtags_today:
+            for search in searches_today:
                 if len(collected) >= remaining:
                     break
 
-                print(f"Browsing #{hashtag}...")
-                search_url = (f"https://www.linkedin.com/search/results/content/"
-                              f"?keywords=%23{hashtag}&sortBy=date_posted")
+                q = search["q"]
+                if search["type"] == "keyword":
+                    encoded = urllib.parse.quote_plus(q)
+                    search_url = (f"https://www.linkedin.com/search/results/content/"
+                                  f"?keywords={encoded}&sortBy=date_posted")
+                    label = f'"{q}"'
+                else:
+                    search_url = (f"https://www.linkedin.com/search/results/content/"
+                                  f"?keywords=%23{q}&sortBy=date_posted")
+                    label = f"#{q}"
+
+                print(f"Browsing {label}...")
                 try:
                     page.goto(search_url, wait_until="domcontentloaded", timeout=30000)
                 except Exception as e:
-                    print(f"  Could not load #{hashtag}: {e.__class__.__name__} — skipping")
+                    print(f"  Could not load {label}: {e.__class__.__name__} — skipping")
                     continue
 
                 human_delay(3, 5)
@@ -484,6 +507,11 @@ def run():
                     post_id     = make_post_id(post_text)
 
                     if post_id in log:
+                        continue
+
+                    # Skip company/org pages — only comment on personal accounts
+                    if post.get("isPage"):
+                        print("    Skipped (company page)")
                         continue
 
                     # Skip non-English posts before calling Claude

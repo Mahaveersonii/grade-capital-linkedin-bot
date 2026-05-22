@@ -10,10 +10,10 @@ Usage:
 """
 
 import argparse, os, json, time, random, re, sys
+import anthropic
 from typing import Optional
 from pathlib import Path
 from datetime import datetime, date
-import anthropic
 from playwright.sync_api import sync_playwright, TimeoutError as PwTimeout
 
 # ── Load .env ─────────────────────────────────────────────────────────────────
@@ -445,9 +445,9 @@ def run(post: bool = False):
                 if idx >= len(posts):
                     continue
 
-                post = posts[idx]
-                post_text = post["text"]
-                btn_index = post["btn_index"]  # this post's specific Comment button
+                post_item = posts[idx]
+                post_text = post_item["text"]
+                btn_index = post_item["btn_index"]  # this post's specific Comment button
                 post_id = make_post_id(post_text)
 
                 if already_commented(log, post_id):
