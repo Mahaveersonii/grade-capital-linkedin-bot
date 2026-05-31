@@ -3828,5 +3828,165 @@
     "date": "2026-05-25",
     "snippet": "Last week, Aquanow\u2019s Head of Partnerships, Aman G. joined discussions at The Institutional & Stablecoins Summit by Daos ",
     "comment": "the settlement layer narrative only works if liquidity depth can absorb institutional ticket sizes without slippage becoming a de facto tax. most stablecoin infrastructure discussions skip over market structure entirely, focusing on custody and compliance while ignoring that execution quality determines whether institutions actually allocate or just pilot. the UAE has the regulatory clarity, but the real test is whether on-chain liquidity can match the scale institutions are used to in traditional FX and money markets."
+  },
+  "8a86b4eae4357a16fa0f7fafc843f8ec": {
+    "date": "2026-05-31",
+    "snippet": "\ud83c\udfe6 \ud83d\udd25 \ud835\udc0f\ud835\udc1a\ud835\udc32\ud835\udc26\ud835\udc1e\ud835\udc27\ud835\udc2d \ud835\udc06\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc30\ud835\udc1a\ud835\udc32 \ud835\udc12\ud835\udc28\ud835\udc1f\ud835\udc2d\ud835\udc30\ud835\udc1a\ud835\udc2b\ud835\udc1e: \ud835\udc13\ud835\udc28\ud835\udc24\ud835\udc1e\ud835\udc27\ud835\udc22\ud835\udc33\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27-\ud835\udc05\ud835\udc22\ud835\udc2b\ud835\udc2c\ud835\udc2d \ud835\udc0f\ud835\udc1a\ud835\udc32\ud835\udc26\ud835\udc1e\ud835\udc27\ud835\udc2d \ud835\udc08\ud835\udc27\ud835\udc1f\ud835\udc2b\ud835\udc1a\ud835\udc2c\ud835\udc2d\ud835\udc2b\ud835\udc2e\ud835\udc1c\ud835\udc2d\ud835\udc2e\ud835\udc2b\ud835\udc1e\n\nPayment gateway software is rapidly evolving in",
+    "comment": "SKIP"
+  },
+  "10d7b7ac06857c09bd263ded233dbed3": {
+    "date": "2026-05-31",
+    "snippet": "\ud83d\udea8 JUST IN: The CLARITY Act Draft is Officially Live \ud83d\udea8\nThe moment the market has been aggressively pricing in has arrived",
+    "comment": "the jurisdictional split sounds clean on paper but execution layer ambiguity is where this falls apart in practice. most tokens don't fit neatly into commodity vs security buckets, especially when governance rights evolve post-launch or liquidity models shift across protocols. the real test isn't the text, it's how CFTC and SEC handle the gray zone when actual enforcement begins."
+  },
+  "481140a3044f6178a0280c0d1cdaa1c5": {
+    "date": "2026-05-31",
+    "snippet": "Just shared a strategic, compliance-focused article on crypto token development in 2026, why building regulatory readine",
+    "comment": "SKIP"
+  },
+  "7e5045110c908e7717008b2fdfc2360c": {
+    "date": "2026-05-31",
+    "snippet": "Jamie Dimon Issues Stark Warning on Stablecoins: A Call for Robust Regulation\n\nJPMorgan CEO Jamie Dimon's latest warning",
+    "comment": "Dimon's warning is valid on collateral transparency but misses that stablecoin fragility is a feature of poor reserve management, not the instrument itself. The real systemic risk isn't the stablecoin blowing up, it's the overnight repo and commercial paper markets they're parked in. Regulation that focuses on issuance instead of asset-liability duration mismatch will just move the risk off-balance sheet."
+  },
+  "10c3396f3eb322d25396f80a69209de2": {
+    "date": "2026-05-31",
+    "snippet": "Very interesting read. \n\nThis post should help a lot of my connections. \n\nGreat work Alex!\n\u2026more",
+    "comment": "SKIP"
+  },
+  "98a283bcaef19a920a50bfafa7030319": {
+    "date": "2026-05-31",
+    "snippet": "Spent all night standing up a cross-vendor EVPN/VXLAN Layer 2 stretch \u2014 Juniper QFX on one end, Cisco Nexus on the other",
+    "comment": "SKIP"
+  },
+  "4daaaa4eaed5fe270a2a9873581e8422": {
+    "date": "2026-05-31",
+    "snippet": "\u26a1 Layer 2 Loops: The Small Mistake That Can Take Down an Entire Network\n\n\nhashtag\n#Networking \nhashtag\n#NetworkEngineeri",
+    "comment": "SKIP"
+  },
+  "79ed0dcaca629a825156f99aeccd497e": {
+    "date": "2026-05-31",
+    "snippet": "L2 Glitch: The Fragmentation Chaos. \ud83c\udf2a\ufe0f\n\nWe solved scaling with Layer 2s, right?\nWrong. We just moved the congestion and ",
+    "comment": "liquidity fragmentation across L2s is a derivatives nightmare because the same asset trades at different implied vols and funding rates on each chain. the real bottleneck isn't bridging tech, it's that there's zero economic incentive for sequencers to standardize when they profit from captive liquidity. unification only happens when the pain of fragmentation exceeds the rent extraction value."
+  },
+  "3c545e9af9df87c09bfba0977df68ba0": {
+    "date": "2026-05-31",
+    "snippet": "hashtag\n#Africa Quiet \nhashtag\n#Crypto Revolution: Why Real Adoption Is Driven by Utility, Not Hype\n\nFrom my work as a c",
+    "comment": "the real test for utility-driven adoption is what happens when regulatory frameworks catch up. Africa's advantage right now is being underbanked enough that crypto fills an infrastructure gap, but once mobile money providers and neobanks add cross-border rails with lower KYC friction, stablecoins will have to compete on execution cost, not just access. the wedge is temporary unless the decentralized stack can outperform on speed and fees at scale."
+  },
+  "930c14f8f040b5b70fa90223def608dc": {
+    "date": "2026-05-31",
+    "snippet": "\ud83e\udd1d \u00a1Seguimos fortaleciendo el ecosistema para nuestra novena edici\u00f3n!\n\nNos complace anunciar a Blockchain Jungle como Com",
+    "comment": "SKIP"
+  },
+  "0d9bcfed2f3bd4e3dcd2066612ece8e0": {
+    "date": "2026-05-31",
+    "snippet": "\ud83d\ude80 Alpsoft\uc758 \uc0c8\ub85c\uc6b4 \ub3c4\uc804\uc744 \uacf5\uc720\ub4dc\ub9bd\ub2c8\ub2e4.\n\n369 Wallet\uc774 \uae00\ub85c\ubc8c Top-tier \uc2a4\ud14c\uc774\ud0b9 \uc778\ud504\ub77c \uae30\uc5c5 Everstake\uc640 \uc804\ub7b5\uc801 \ud30c\ud2b8\ub108\uc2ed\uc744 \uccb4\uacb0\ud588\uc2b5\ub2c8\ub2e4.\n\n\uc800\ud76c\uac00 \uc0dd\uac01\ud558\ub294 \uc9c0\uac11\uc740 \ub2e8\uc21c\ud788 \uc790\uc0b0\uc744 \ubcf4\uad00\ud558\ub294",
+    "comment": "SKIP"
+  },
+  "62f74e72ab5b0e3c65945ea103fce42f": {
+    "date": "2026-05-31",
+    "snippet": "\ud83c\udf31 \nhashtag\n#WEBINAR:\u00a0\u00a1El FUTURO de la \nhashtag\n#Agricultura y los Real World Assets (\nhashtag\n#RWA) llega a Ushuaia! \ud83c\udde6\ud83c\uddf7\u00a0",
+    "comment": "SKIP"
+  },
+  "d9f8bb9c21fe1b701282d8d37e5ffae3": {
+    "date": "2026-05-31",
+    "snippet": "We are pleased to announce that we have been nominated for the CoinGape News Awards in the category of 'Most Innovative ",
+    "comment": "SKIP"
+  },
+  "0a910da1b2db0a5108e65a2989a28ed7": {
+    "date": "2026-05-31",
+    "snippet": "\ud83d\ude80 \ud835\udde0\ud835\uddfc\ud835\ude00\ud835\ude01 \ud835\uddfd\ud835\uddf2\ud835\uddfc\ud835\uddfd\ud835\uddf9\ud835\uddf2 \ud835\uddfc\ud835\uddfb\ud835\uddf9\ud835\ude06 \ud835\uddfb\ud835\uddfc\ud835\ude01\ud835\uddf6\ud835\uddf0\ud835\uddf2 \ud835\ude00\ud835\ude01\ud835\uddee\ud835\uddff\ud835\ude01\ud835\ude02\ud835\uddfd\ud835\ude00 \ud835\uddee\ud835\uddf3\ud835\ude01\ud835\uddf2\ud835\uddff \ud835\ude01\ud835\uddf5\ud835\uddf2\ud835\ude06 \ud835\uddef\ud835\uddf2\ud835\uddf0\ud835\uddfc\ud835\uddfa\ud835\uddf2 \ud835\uddf6\ud835\uddfa\ud835\uddfd\ud835\uddfc\ud835\ude00\ud835\ude00\ud835\uddf6\ud835\uddef\ud835\uddf9\ud835\uddf2 \ud835\ude01\ud835\uddfc \ud835\uddf6\ud835\uddf4\ud835\uddfb\ud835\uddfc\ud835\uddff\ud835\uddf2.\nBefore that?\n\nThey look too early.\nToo niche.",
+    "comment": "SKIP"
+  },
+  "0e967293c806a8bde0c65de73026257b": {
+    "date": "2026-05-31",
+    "snippet": "It\u2019s one of the oldest strategies in finance\u2026 yet it keeps printing profits quietly.\n\n\n\nWhile most traders chase volatil",
+    "comment": "SKIP"
+  },
+  "b20d27c2cd3ddc3d7481beb71a428021": {
+    "date": "2026-05-31",
+    "snippet": "One AWS cooling failure. Two hours offline. Thousands of Coinbase users locked out while markets moved.\n\n\n\nThis is the h",
+    "comment": "the centralization layer in crypto isn't the chain, it's the exchange infrastructure and cloud dependencies most users never price in. this is why self-custody and decentralized execution matter beyond the ideological argument, they're actual tail risk hedges when AWS or any single point fails during volatility."
+  },
+  "8606ae3cda6595876c4026d96262bb3d": {
+    "date": "2026-05-31",
+    "snippet": "\ud83d\udd25 The next generation won\u2019t ask:\n\u201cDo you know crypto?\u201d\n\nThey\u2019ll ask:\n\u201cWhy didn\u2019t you learn it earlier?\u201d\n\nBecause slowly,",
+    "comment": "SKIP"
+  },
+  "df907506dae8c009d4e625d459e46dab": {
+    "date": "2026-05-31",
+    "snippet": "Crypto was supposed to be the future of finance.\n\nCriminals made it their favourite laundromat.\n\nHere's exactly how they",
+    "comment": "SKIP"
+  },
+  "795e2a9b1aabed6860de5337a7ba29e1": {
+    "date": "2026-05-31",
+    "snippet": "The question is no longer whether crypto survives. It\u2019s how deeply it integrates into mainstream finance.\n\n\nhashtag\n#Cry",
+    "comment": "SKIP"
+  },
+  "2282a0f3e14526669156f1c1c2f09f6d": {
+    "date": "2026-05-31",
+    "snippet": "hashtag\n#India \nhashtag\n#IndiaInside \nhashtag\n#Crypto \nhashtag\n#Dogecoin \nhashtag\n#Crypto4all \n\nhashtag\n#cryptobank4all ",
+    "comment": "SKIP"
+  },
+  "4a6ec62ed8368a6ec309c04ecad55185": {
+    "date": "2026-05-31",
+    "snippet": "The 2026 FIFA World Cup is the first since 2018 with no crypto exchange among its top-tier sponsors. Yet crypto is every",
+    "comment": "the sponsorship migration from FIFA-level to club-level isn't just about cost discipline, it's about execution transparency. top-tier deals come with governance layers and compliance audits that most crypto platforms still can't sustain through a downcycle. the survivors figured out that distributed deals = distributed risk, and that matters more than brand scale when your treasury fluctuates 40% in a quarter."
+  },
+  "0dfd9b4f9f1327c5257ea8f953af2003": {
+    "date": "2026-05-31",
+    "snippet": "\u26a1 ZEUS-AI Forecast Update \u2014 ETH/USDT | May 31, 2026\n\nOur proprietary AI just analyzed ETH/USDT and here's what it sees:\n",
+    "comment": "SKIP"
+  },
+  "7d339ca66a902031941bbe77a2199293": {
+    "date": "2026-05-31",
+    "snippet": "Just did an analysis on Bitcoin and it looks strong around 73,750. Bullish momentum could push it towards 74,400, with 7",
+    "comment": "SKIP"
+  },
+  "06370546401f52f7d0a40706392c8d29": {
+    "date": "2026-05-31",
+    "snippet": "hashtag\n#Trading \nhashtag\n#Bitcoin \nhashtag\n#BankNifty \nhashtag\n#Gold \nhashtag\n#CrudeOil \nhashtag\n#MarketAnalysis \nhasht",
+    "comment": "SKIP"
+  },
+  "23ba694a454ff58fb82b210615a77919": {
+    "date": "2026-05-31",
+    "snippet": "Macro regime change overruns crypto catalysts.\n\nAfter six consecutive weeks of net-positive flows from early April, US s",
+    "comment": "The macro override is real but the causality chain matters. Bond volatility drives margin calls across levered crypto positions, which forces liquidations independent of sentiment. ETF outflows are the symptom, not the cause. Most institutions still don't hedge duration risk in their crypto book, so when real rates reprice this violently, the correlation to traditional risk assets becomes absolute."
+  },
+  "d20a5b15ba4f9957fe0046181fe4bb32": {
+    "date": "2026-05-31",
+    "snippet": "The recommitment failed.\n\nAfter three weeks of net outflows in late April, U.S. spot Bitcoin ETFs posted\na sixth consecu",
+    "comment": "the ETF two-sided flow structure is a tell. institutional positioning isn't conviction-based anymore, it's event-driven around regulatory clarity and derivatives infrastructure. the Bitnomial license stack matters more than the headline inflow numbers because it signals where real institutional volume moves once perpetual futures get proper oversight. we've seen this sequencing before in other asset classes."
+  },
+  "84f005ea21613322187298d9d00efa5d": {
+    "date": "2026-05-31",
+    "snippet": "hashtag\n#SpaceX \nhashtag\n#Nasdaq100 \nhashtag\n#WallStreet \nhashtag\n#Gold \nhashtag\n#Trading \nhashtag\n#OilPrice \nhashtag\n#F",
+    "comment": "SKIP"
+  },
+  "12ba30882da3973b0feeec7e6ecf79a3": {
+    "date": "2026-05-31",
+    "snippet": "\ud83c\udde8\ud83c\uddf3 NEW: China is reportedly considering a national clearinghouse for digital yuan transactions to support broader adopti",
+    "comment": "the clearinghouse layer is where state-backed digital currencies either become truly competitive with stablecoins or expose that they were never about efficiency. if the PBOC builds this as actual infrastructure with open access points, it changes the game for cross-border settlement. if it's just another control mechanism wrapped in fintech language, adoption stays captive to policy mandates and the private alternatives win on execution."
+  },
+  "8395a8f1a744b5a4fe497f5448b2fd43": {
+    "date": "2026-05-31",
+    "snippet": "The future of DeFi is being built today, and Decentralized Exchanges (DEXs) are at the heart of this transformation.\nOur",
+    "comment": "SKIP"
+  },
+  "62457c6adcf1b1c02deff035f9ff907c": {
+    "date": "2026-05-31",
+    "snippet": "cctimes.co.uk/markets\n\n\nhashtag\n#Cryptocurrency \nhashtag\n#Crypto \nhashtag\n#Cryptoexplained \nhashtag\n#Crypto2026 \nhashtag",
+    "comment": "SKIP"
+  },
+  "2cde907fa13c6081b141b3444de79842": {
+    "date": "2026-05-31",
+    "snippet": "El pasado viernes tuvimos el honor de dictar, junto a Rosendo Martin Gravanago, una clase especial en la Licenciatura de",
+    "comment": "SKIP"
+  },
+  "6a52da3e3b828f08ac102c623e657bf5": {
+    "date": "2026-05-31",
+    "snippet": "Something is leaving the crypto market\u2026 and most traders haven\u2019t noticed yet.\n\n\nAs interest rates climb, speculative mon",
+    "comment": "SKIP"
   }
 }
